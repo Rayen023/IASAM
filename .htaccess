@@ -1,0 +1,15 @@
+ErrorDocument 404 https://ias-insat.ieee.tn/404
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/404$
+RewriteRule ^(.*)$ /404.php [L]
+RewriteCond %{REQUEST_URI} !\\.php$
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* - [L,R=404]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php56” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php56___lsphp .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
