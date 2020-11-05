@@ -7,14 +7,15 @@
 <meta name="description" content="IAS Tunisia Annual Meeting">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
-<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" >
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.carousel.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/animate.css">
-<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/colorbox/colorbox.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
 </head>
+
 <body>
 
 <div class="super_container">
@@ -117,7 +118,6 @@
 					<div class="intro_text text-center">
 						<p>
 							The IEEE IAS Annual Meeting has a long tradition of serving as an international forum for experts to present and discuss the latest developments in the application of electrical technology to industry and this year; a TUNISIAN version of this meeting will be held for the FIRST TIME.
-							
 						</p>
 					</div>
 					<div class="button button_2 intro_button"><a href="#"><span>Register<img src="images/arrow.png" alt=""></span></a></div>
