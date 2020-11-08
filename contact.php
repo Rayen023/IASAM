@@ -11,6 +11,9 @@
 <link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/contact.css">
 <link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/header.css">
+<link rel="stylesheet" type="text/css" href="styles/footer.css">
+<link rel="stylesheet" type="text/css" href="styles/menu.css">
 </head>
 <body>
 

@@ -14,6 +14,9 @@
 <link rel="stylesheet" type="text/css" href="plugins/colorbox/colorbox.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/header.css">
+<link rel="stylesheet" type="text/css" href="styles/footer.css">
+<link rel="stylesheet" type="text/css" href="styles/menu.css">
 </head>
 
 <body>

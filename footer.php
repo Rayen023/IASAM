@@ -69,7 +69,7 @@ width: 54%;
 						<div class="footer_column">
 							<div class="footer_title">Instagram</div>
 							<div class="gallery d-flex flex-row align-items-start justify-content-between flex-wrap">
-						<?php /*
+						<?php ?>
 								<!-- Gallery Item -->
 								<div class="gallery_item">
 									<a class="colorbox" href="images/gallery_1_large.jpg"><img src="images/gallery_1.jpg" alt=""></a>
@@ -109,7 +109,7 @@ width: 54%;
 								<div class="gallery_item">
 									<a class="colorbox" href="images/gallery_8_large.jpg"><img src="images/gallery_8.jpg" alt=""></a>
 								</div>
-*/?>
+?>
 							</div>
 						</div>
 						
