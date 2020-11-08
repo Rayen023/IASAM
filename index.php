@@ -18,6 +18,7 @@
 <link rel="stylesheet" type="text/css" href="styles/footer.css">
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
 <link rel="stylesheet" type="text/css" href="styles/CTA.css">
+<link rel="stylesheet" type="text/css" href="styles/teams.css">
 </head>
 
 <body>
@@ -80,7 +81,7 @@
 	<!-- Timer -->
 
 	<div class="timer_section">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/timer.jpg" data-speed="0.8"></div>
+		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/timer (5).jpg" data-speed="0.8"></div>
 		<div class="timer_overlay"></div>
 		<div class="container">
 			<div class="row">

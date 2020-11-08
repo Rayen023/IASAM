@@ -359,72 +359,6 @@ section {
 10. teams
 *********************************/
 
-.teams {
-  background: #f5f8fb;
-  padding-top: 101px;
-  padding-bottom: 103px;
-}
-.teams_row {
-  margin-top: 58px;
-}
-.team {
-  margin-bottom: 27px;
-}
-.team_image::after {
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  content: "";
-  border: solid 1px #0b8643;
-  background: rgb(11, 134, 67, 0.67);
-  visibility: hidden;
-  opacity: 0;
-  -webkit-transition: all 400ms ease;
-  -moz-transition: all 400ms ease;
-  -ms-transition: all 400ms ease;
-  -o-transition: all 400ms ease;
-  transition: all 400ms ease;
-}
-.team:hover .team_image::after {
-  visibility: visible;
-  opacity: 1;
-}
-.team_info {
-  position: absolute;
-  left: 22px;
-  bottom: 22px;
-  width: 191px;
-  height: 67px;
-  background: #0b8643;
-  padding-left: 21px;
-  -webkit-transition: all 400ms ease;
-  -moz-transition: all 400ms ease;
-  -ms-transition: all 400ms ease;
-  -o-transition: all 400ms ease;
-  transition: all 400ms ease;
-}
-.team:hover .team_info {
-  background: #000000;
-}
-.team_name a {
-  font-size: 20px;
-  font-weight: 500;
-  color: #ffffff;
-  line-height: 1.2;
-}
-.team_name a:hover {
-  color: #0b8643;
-}
-.team_title {
-  font-size: 14px;
-  font-weight: 400;
-  color: #ffffff;
-  line-height: 1.2;
-  margin-top: 1px;
-}
 /*********************************
 3. Header
 *********************************/
@@ -708,3 +642,25 @@ section {
 /*********************************
 9. Footer
 *********************************/
+.speakers_elSocial__1bAwC {
+  position: absolute;
+  color: #fff;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 1rem 0;
+  z-index: 5;
+  -webkit-transition: -webkit-transform 0.2s ease-in-out;
+  transition: -webkit-transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+  grid-auto-flow: column dense;
+  font-size: 1.5rem;
+  display: grid;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  grid-gap: 1rem;
+  gap: 1rem;
+}
