@@ -2,10 +2,11 @@
 <style>
 footer{
 	text-align: center;
+	height: 210px;
 }
 footer ul{
 	margin: 0 auto;
-width: 54%;
+	width: 54%;
 	
 }
 </style>
@@ -15,15 +16,15 @@ width: 54%;
 				<div class="row">
 
 					<!-- Footer About -->
-					<div class="col-lg-4 footer_col">
+					<div style="margin-top:-55px" class="col-lg-4 footer_col">
 
 						<!-- Logo -->
-						<div style="margin-top: -48px;" class="logo">
+						<div style="margin-top: -100px;" class="logo">
 							<a href="#">
 								<img width="50%" src="images/iasam.png"/>
 							</a>
 						</div>
-						<div style="margin-top:-40px" class="footer_text">
+						<div style="margin-top:-55px" class="footer_text">
 							<p>If you are interested in the industrial field then this congress is for you. </p>
 						</div>
 						<div class="social footer_social">
@@ -37,7 +38,7 @@ width: 54%;
 					</div>
 
 					<!-- Newsletter -->
-					<div class="col-lg-4 footer_col">
+					<div style="margin-top:-80px" class="col-lg-4 footer_col">
 						<div class="footer_column">
 							<div class="footer_title">Get In Touch</div>
 							<div style="margin-top:0" class="footer_text">
@@ -65,11 +66,10 @@ width: 54%;
 					
                 <!-- Gallery -->
             
-					<div class="col-lg-4 footer_col">
+					<div style="margin-top:-100px" class="col-lg-4 footer_col">
 						<div class="footer_column">
 							<div class="footer_title">Instagram</div>
-							<div class="gallery d-flex flex-row align-items-start justify-content-between flex-wrap">
-						<?php ?>
+							<div style="margin-top:0px" class="gallery d-flex flex-row align-items-start justify-content-between flex-wrap">
 								<!-- Gallery Item -->
 								<div class="gallery_item">
 									<a class="colorbox" href="images/gallery_1_large.jpg"><img src="images/gallery_1.jpg" alt=""></a>
@@ -109,7 +109,7 @@ width: 54%;
 								<div class="gallery_item">
 									<a class="colorbox" href="images/gallery_8_large.jpg"><img src="images/gallery_8.jpg" alt=""></a>
 								</div>
-?>
+								
 							</div>
 						</div>
 						

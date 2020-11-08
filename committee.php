@@ -104,11 +104,23 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/amira.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank"
-                                        href="https://www.facebook.com/amira.tounsi.3">Amira Tounsi</a></div>
-                                <div class="team_title">Vice Chairwoman</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -116,44 +128,92 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/amir.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank"
-                                        href="https://www.facebook.com/amir.benhassine">Amir Ben Hassine</a></div>
-                                <div class="team_title">Program Manager</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/zakaria.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank"
-                                        href="https://www.facebook.com/zakaria.naija.1">Zakaria Naaija</a></div>
-                                <div class="team_title">Webmaster</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/zeineb.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank"
-                                        href="https://www.facebook.com/zeineb.eliraqui">Zeineb El Iraqui</a></div>
-                                <div class="team_title">Media Manager</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/farouk.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank"
-                                        href="https://www.facebook.com/saaidia.farouk">Farouk Saaidia</a></div>
-                                <div class="team_title">Co-Sponsoring Manager</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -161,11 +221,23 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/montassar.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank" href="https://www.facebook.com/monta.1933">
-                                        Montassar Ouertani</a></div>
-                                <div class="team_title">Co-Sponsoring Manager</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -173,11 +245,23 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/ghassen.jpg" alt=""></div>
-                            <div class="team_info d-flex flex-column align-items-start justify-content-center">
-                                <div class="team_name"><a target="_blank"
-                                        href="https://www.facebook.com/swinzou">Ghassen Abbes</a></div>
-                                <div class="team_title">Head of meals and accommodation</div>
+                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_info flex  ">
+
+                                <div>
+                                    <div class="team_name"><a target="_blank" rel="noreferrer"
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
+                                    <div class="team_title">Chairman</div>
+                                </div>
+
+                                <div class="spacer"></div>
+
+                                <ul class="team_social">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
+                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
+                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
