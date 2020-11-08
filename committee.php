@@ -14,6 +14,7 @@
 <link rel="stylesheet" type="text/css" href="styles/header.css">
 <link rel="stylesheet" type="text/css" href="styles/footer.css">
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
+<link rel="stylesheet" type="text/css" href="styles/CTA.css">
 </head>
 <body>
 

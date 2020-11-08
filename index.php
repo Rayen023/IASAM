@@ -17,6 +17,7 @@
 <link rel="stylesheet" type="text/css" href="styles/header.css">
 <link rel="stylesheet" type="text/css" href="styles/footer.css">
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
+<link rel="stylesheet" type="text/css" href="styles/CTA.css">
 </head>
 
 <body>
@@ -53,8 +54,8 @@
 										<div class="home_info_container">
 											<div class="home_info">
 												<ul class="d-flex flex-row align-items-center justify-content-start">
-													<li>11-12 April 2020</li>
-													<li>Sousse , Tunisia</li>
+													<li>11-12 December 2020</li>
+													<li>Online</li>
 												</ul>
 											</div>
 										</div>

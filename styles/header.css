@@ -6,7 +6,8 @@
   background: #ffffff;
   z-index: 100;
   border-bottom: solid 2px #000000;
-  box-shadow: 10px 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity: 0.95;
 }
 .header_content {
   width: 100%;
@@ -84,6 +85,7 @@
   font-size: 16px;
   font-weight: 500;
   color: #000000;
+  padding: 2rem 0;
 }
 .main_nav > ul > li a:hover,
 .main_nav > ul > li.active a,
