@@ -55,70 +55,9 @@
 		</div>
 	</div>
 
-	<!-- Intro Left -->
+<!-- Milestones -->
 
-	<div class="intro intro_left container_wrapper">
-		<div class="container">
-			<div class="row row-eq-height">
-
-				<!-- Intro Content -->
-				<div class="col-xl-6">
-					<div class="intro_left_content">
-						<div class="intro_title"><h1>IEEE IAS INSAT Student Chapter</h1></div>
-						<div class="intro_text">
-							<p>
-							IEEE IAS INSAT Student Chapter was formed on 16 October 2014. Since the founding of the student chapter. We aim to provide knowledge to our members through organizing various events such as: LabVIEW workshop, Lean Manufacturing Training, Industrial Visits etc. 
-							</p>
-						</div>
-						<div class="button button_2 intro_button"><a href="https://www.facebook.com/IASINSAT/"><span>Follow us</span><img src="images/arrow.png" alt=""></a></div>
-					</div>
-				</div>
-
-				<!-- Intro Image -->
-				<div class="col-xl-6">
-					<div class="intro_image">
-						<img src="images/iasinsat.jpg" alt="">
-						<div class="background_image" style="background-image:url(images/iasinsat.jpg)"></div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-
-	<!-- Intro Right -->
-
-	<div class="intro intro_right container_wrapper">
-		<div class="container">
-			<div class="row row-eq-height">
-
-				<!-- Intro Content -->
-				<div class="col-xl-6 order-xl-2 order-1">
-					<div class="intro_right_content">
-						<div class="intro_title"><h1>IEEE IAS Tunisia Section Chapter</h1></div>
-						<div class="intro_text">
-							<p>Surely one of the most active chapters of the IEEE Tunisian Chapters, the IEEE Industry Applications Society chapter is more specialized in the industrial field, with the purpose of development and advancing of technology and science. While linking theory and practice to the application of electrical and electronic systems for the benefit of humanity. </p>
-						
-						</div>
-						<div class="button button_2 intro_button"><a href="https://www.facebook.com/iastunisia/"><span>Follow us</span><img src="images/arrow.png" alt=""></a></div>
-					</div>
-				</div>
-
-				<!-- Intro Image -->
-				<div class="col-xl-6 order-xl-1 order-2">
-					<div class="intro_image">
-						<img src="images/iastunisia.jpg" alt="">
-						<div class="background_image" style="background-image:url(images/iastunisia.jpg)"></div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-
-	<!-- Milestones -->
-
-	<div class="milestones">
+<div class="milestones">
 		<div class="container">
 			<div class="row">
 
@@ -206,6 +145,70 @@
 		</div>
 	</div>
 
+
+	<!-- Intro Left -->
+
+
+	<div class="intro intro_left container_wrapper">
+		<div class="container">
+			<div class="row row-eq-height">
+
+				<!-- Intro Content -->
+				<div class="col-xl-6">
+					<div class="intro_left_content">
+						<div class="intro_title"><h1>IEEE IAS INSAT Student Chapter</h1></div>
+						<div class="intro_text">
+							<p>
+							IEEE IAS INSAT Student Chapter was formed on 16 October 2014. Since the founding of the student chapter. We aim to provide knowledge to our members through organizing various events such as: LabVIEW workshop, Lean Manufacturing Training, Industrial Visits etc. 
+							</p>
+						</div>
+						<div class="button button_2 intro_button"><a href="https://www.facebook.com/IASINSAT/"><span>Follow us</span><img src="images/arrow.png" alt=""></a></div>
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<img src="images/iasinsat.jpg" alt="">
+						<div class="background_image" style="background-image:url(images/iasinsat.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Intro Right -->
+
+	<div class="intro intro_right container_wrapper">
+		<div class="container">
+			<div class="row row-eq-height">
+
+				<!-- Intro Content -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_right_content">
+						<div class="intro_title"><h1>IEEE IAS Tunisia Section Chapter</h1></div>
+						<div class="intro_text">
+							<p>Surely one of the most active chapters of the IEEE Tunisian Chapters, the IEEE Industry Applications Society chapter is more specialized in the industrial field, with the purpose of development and advancing of technology and science. While linking theory and practice to the application of electrical and electronic systems for the benefit of humanity. </p>
+						
+						</div>
+						<div class="button button_2 intro_button"><a href="https://www.facebook.com/iastunisia/"><span>Follow us</span><img src="images/arrow.png" alt=""></a></div>
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_image">
+						<img src="images/iastunisia.jpg" alt="">
+						<div class="background_image" style="background-image:url(images/iastunisia.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
 	<!-- CTA -->
 	<?php include "registerNow.html"; ?>
 

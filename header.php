@@ -37,7 +37,7 @@
 					</ul>
 				</div>
 				<div class="header_link">
-					<a href="#">
+					<a href="registration">
 						<span>Registration<img src="images/arrow.png" alt=""></span>
 					</a>
 				</div>

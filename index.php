@@ -62,7 +62,7 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="button button_1 home_button"><a href="#"><span>Register<img
+                                            <div class="button button_1 home_button"><a href="registration"><span>Register<img
                                                             src="images/arrow_2.png" alt=""></span></a></div>
                                         </div>
                                     </div>
@@ -134,7 +134,7 @@
                                 be held for the FIRST TIME.
                             </p>
                         </div>
-                        <div class="button button_2 intro_button"><a href="#"><span>Register<img src="images/arrow.png"
+                        <div class="button button_2 intro_button"><a href="registration"><span>Register<img src="images/arrow.png"
                                         alt=""></span></a></div>
                     </div>
                 </div>
