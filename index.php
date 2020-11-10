@@ -27,8 +27,9 @@
     <div class="super_container">
 
         <?php include "header.php" ?>
+        
         <!-- Menu -->
-
+        <?php include "menu.php" ?>
 
         <!-- Home -->
 
