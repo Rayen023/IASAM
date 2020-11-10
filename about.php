@@ -29,7 +29,7 @@
 	<?php include "header.php"?>
 
 	<!-- Menu -->
-
+	<?php include "menu.php" ?>
 	
 
 	<!-- Home -->

@@ -25,7 +25,8 @@
 
 	
 
-	<!-- Menu -->
+<!-- Menu -->
+<?php include "menu.php" ?>
 
 
 	<!-- Home -->
