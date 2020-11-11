@@ -254,14 +254,17 @@
 }
 .hamburger i {
   font-size: 22px;
-  color: #ffffff;
-  padding: 5px;
-  -webkit-transition: all 200ms ease;
-  -moz-transition: all 200ms ease;
-  -ms-transition: all 200ms ease;
-  -o-transition: all 200ms ease;
+  color: #000000;
+  padding: 2rem;
   transition: all 200ms ease;
 }
 .hamburger:hover i {
   color: #0b8643;
 }
+
+
+@media screen and (min-width: 0px) and (max-width: 993px) {
+  .hamburger{ display: block; visibility: visible; } } /* show it on smaller screen */
+
+@media screen and (min-width: 994px) and (max-width: 1024px) {
+  .hamburger{ display: none;visibility: hidden; }  } /* hide it on larger screens */

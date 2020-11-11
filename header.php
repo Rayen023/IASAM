@@ -41,7 +41,8 @@
 						<span>Registration<img src="images/arrow.png" alt=""></span>
 					</a>
 				</div>
-				<div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+
+				<div class="hamburger"><i class="fa fa-bars fa-xs" aria-hidden="true" ></i></div>
 			</div>
 		</div>
 	</header>

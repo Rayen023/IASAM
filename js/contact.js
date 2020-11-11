@@ -75,23 +75,50 @@ $(document).ready(function()
 
 	function initMenu()
 	{
+
 		if($('.menu').length && $('.hamburger').length)
 		{
 			var menu = $('.menu');
+			var menuCont = $('.menu_content');
 			var hamburger = $('.hamburger');
 			var close = $('.menu_close');
+			
+			var Element = document.getElementById('menuId');
 
 			hamburger.on('click', function()
-			{
-				menu.toggleClass('active');
+			{	
+				Element.style.display= "block";
+					hideOnClickOutside(Element)
 			});
 
 			close.on('click', function()
-			{
-				menu.toggleClass('active');
+			{	
+				Element.style.display= "none";
 			});
+
+			const isVisible = elem => !!elem && !!( elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length )
+			
+			function hideOnClickOutside(Element) {
+				const outsideClickListener = event => {
+					if ( (Element.contains(event.target)) && isVisible(Element)) { 
+					Element.style.display = 'none'
+					removeClickListener()
+					}
+				}
+			
+				const removeClickListener = () => {
+					document.removeEventListener('click', outsideClickListener)
+				}
+			
+				document.addEventListener('click', outsideClickListener)
+			}
+
+			
+
+
 		}
-	}
+
+}	
 
 	/* 
 
