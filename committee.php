@@ -48,7 +48,7 @@
                                 </div>
                                 <div class="breadcrumbs">
                                     <ul class="d-flex flex-row align-items-center justify-content-start">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index">Home</a></li>
                                         <li>Committee</li>
                                     </ul>
                                 </div>

@@ -41,7 +41,7 @@
 							<div class="home_title"><h1>Contact</h1></div>
 							<div class="breadcrumbs">
 								<ul class="d-flex flex-row align-items-center justify-content-start">
-									<li><a href="index.html">Home</a></li>
+									<li><a href="index">Home</a></li>
 									<li>Contact</li>
 								</ul>
 							</div>

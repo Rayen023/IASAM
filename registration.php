@@ -43,8 +43,8 @@
 							<div class="home_title"><h1>Register2</h1></div>
 							<div class="breadcrumbs">
 								<ul class="d-flex flex-row align-items-center justify-content-start">
-									<li><a href="index.html">Register3</a></li>
-									<li>Register4</li>
+									<li><a href="index">Home</a></li>
+									<li>Register</li>
 								</ul>
 							</div>
 						</div>
