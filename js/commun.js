@@ -7,9 +7,7 @@
 1. Vars and Inits
 2. Set Header
 3. Init Menu
-4. Init Tabs
-5. Init Scrolling
-6. Init Gallery
+4. Init Gallery
 
 
 ******************************/
@@ -24,8 +22,13 @@ $(document).ready(function()
 
 	*/
 
-	initTabs();
-	initScrolling();
+	var header = $('.header');
+	var ctrl = new ScrollMagic.Controller();
+
+	setHeader();
+	initMenu();
+	initGallery();
+	
 
 	$(window).on('resize', function()
 	{
@@ -114,61 +117,10 @@ $(document).ready(function()
 		}
 
 }	
-	/* 
-
-	4. Init Tabs
-
-	*/
-
-	function initTabs()
-	{
-		if($('.tab').length)
-		{
-			$('.tab').on('click', function()
-			{
-				$('.tab').removeClass('active');
-				$(this).addClass('active');
-				var clickedIndex = $('.tab').index(this);
-
-				var panels = $('.tab_panel');
-				panels.removeClass('active');
-				$(panels[clickedIndex]).addClass('active');
-
-				setTimeout(function()
-				{
-					$(window).trigger('resize.px.parallax');
-				}, 375);
-			});
-		}
-	}
 
 	/* 
 
-	5. Init Scrolling
-
-	*/
-
-	function initScrolling()
-	{
-		if($('.scroll_link').length)
-    	{
-    		var links = $('.scroll_link');
-	    	links.each(function()
-	    	{
-	    		var ele = $(this);
-	    		var target = ele.data('scroll-to');
-	    		ele.on('click', function(e)
-	    		{
-	    			e.preventDefault();
-	    			$(window).scrollTo(target, 1500, {offset: -75, easing: 'easeInOutQuart'});
-	    		});
-	    	});
-    	}
-	}
-
-	/* 
-
-	6. Init Gallery
+	4. Init Gallery
 
 	*/
 
@@ -184,6 +136,5 @@ $(document).ready(function()
 				maxHeight:'95%'
 			});
 		}
-	}
-
+    }
 });

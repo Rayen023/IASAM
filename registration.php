@@ -18,6 +18,7 @@
 <link rel="stylesheet" type="text/css" href="styles/CTA.css">
 <link rel="stylesheet" type="text/css" href="styles/registration.css">
 <link rel="stylesheet" type="text/css" href="styles/registration_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/commun.css">
 
 </head>
 <body>
@@ -76,6 +77,7 @@
 <script src="plugins/progressbar/progressbar.min.js"></script>
 <script src="plugins/parallax-js-master/parallax.min.js"></script>
 <script src="js/about.js"></script>
+<script src="js/commun.js"></script>
 <script>
 
 $(document).ready(function () {

@@ -25,14 +25,9 @@ $(document).ready(function()
 
 	*/
 
-	var header = $('.header');
-
-	setHeader();
-	initMenu();
 	initHomeSlider();
 	initTimer();
 	initTabs();
-	initGallery();
 
 	$(window).on('resize', function()
 	{
@@ -252,19 +247,5 @@ $(document).ready(function()
 	7. Init Gallery
 
 	*/
-
-	function initGallery()
-	{
-		if($('.gallery_item').length)
-		{
-			$('.colorbox').colorbox(
-			{
-				rel:'colorbox',
-				photo: true,
-				maxWidth:'95%',
-				maxHeight:'95%'
-			});
-		}
-	}
 
 });

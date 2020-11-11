@@ -15,6 +15,7 @@
 <link rel="stylesheet" type="text/css" href="styles/footer.css">
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
 <link rel="stylesheet" type="text/css" href="styles/CTA.css">
+<link rel="stylesheet" type="text/css" href="styles/commun.css">
 </head>
 <body>
 
@@ -105,7 +106,7 @@
 	</div>
 
 	<!-- CTA -->
-	<?php include "registerNow.html"; ?>
+	<?php include "CTA.html"; ?>
 
 
 	<!-- Footer -->
@@ -128,6 +129,7 @@
 <script src="plugins/parallax-js-master/parallax.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
 <script src="js/contact.js"></script>
+<script src="js/commun.js"></script>
 <script>
 
 $(document).ready(function () {

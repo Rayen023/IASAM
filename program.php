@@ -15,6 +15,7 @@
 <link rel="stylesheet" type="text/css" href="styles/footer.css">
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
 <link rel="stylesheet" type="text/css" href="styles/CTA.css">
+<link rel="stylesheet" type="text/css" href="styles/commun.css">
 </head>
 <body>
 
@@ -289,7 +290,7 @@
 
 	<!-- CTA -->
 
-	<?php include "registerNow.html"; ?>
+	<?php include "CTA.html"; ?>
 
 	<!-- Footer -->
 	<?php include "footer.php"; ?>
@@ -311,6 +312,7 @@
 <script src="plugins/parallax-js-master/parallax.min.js"></script>
 <script src="plugins/scrollTo/jquery.scrollTo.min.js"></script>
 <script src="js/schedule.js"></script>
+<script src="js/commun.js"></script>
 <script>
 
 $(document).ready(function () {
