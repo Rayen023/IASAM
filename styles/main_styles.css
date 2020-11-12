@@ -340,9 +340,14 @@
 }
 .schedule_row {
   margin-top: 58px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 15px;
+  
 }
 .schedule_container {
   border: solid 1px #cbd6e1;
+
 }
 .schedule_title_bar {
   height: 112px;
@@ -357,10 +362,14 @@
   margin-left: 8px;
 }
 .schedule_title_bar_1 {
-  background: #0b8643;
+  background: #ce8e00;
 }
 .schedule_title_bar_2 {
-  background: #ce8e00;
+  background: #0b8643;
+}
+.schedule_title_bar_3 {
+  background: #40798C
+
 }
 .schedule_list {
   padding-top: 45px;
@@ -381,10 +390,6 @@
   height: 65px;
   border-radius: 50%;
   overflow: hidden;
-  -webkit-transform: translateY(4px);
-  -moz-transform: translateY(4px);
-  -ms-transform: translateY(4px);
-  -o-transform: translateY(4px);
   transform: translateY(4px);
 }
 .schedule_list ul li {

@@ -258,7 +258,7 @@
                 <div class="row schedule_row">
 
                     <!-- Schedule Column -->
-                    <div class="col-lg-6 schedule_col">
+                    <div class="schedule_col">
                         <div class="schedule_container">
                             <div class="schedule_title_bar schedule_title_bar_1 text-center">Day 1. <span>April 11,
                                     2020</span></div>
@@ -318,9 +318,61 @@
                     </div>
 
                     <!-- Schedule Column -->
-                    <div class="col-lg-6 schedule_col">
+                    <div class="schedule_col">
                         <div class="schedule_container">
                             <div class="schedule_title_bar schedule_title_bar_2 text-center">Day 2. <span>April 12,
+                                    2020</span></div>
+                            <div class="schedule_list">
+                                <ul>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">07:00 AM - 09:00 AM</div>
+                                            <div class="schedule_title">Breakfast</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/gallery_2.jpg" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">09:00 AM - 10:30 AM</div>
+                                            <div class="schedule_title">Plenary talks</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">10:30 AM - 11:00 AM</div>
+                                            <div class="schedule_title">Networking Break</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/speaker_2.jpg" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">11:00 AM - 13:00 AM</div>
+                                            <div class="schedule_title">Closing Ceremony</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/schedule_8.jpg" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">01:00 AM - 02:00 PM</div>
+                                            <div class="schedule_title">Check-Out</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Schedule Column -->
+                    <div class="schedule_col">
+                        <div class="schedule_container">
+                            <div class="schedule_title_bar schedule_title_bar_3 text-center">Day 3. <span>April 13,
                                     2020</span></div>
                             <div class="schedule_list">
                                 <ul>
@@ -614,7 +666,7 @@
 
         $('li.active').removeClass('active');
         $('a[href="' + decodeURI(location.pathname).substring(1) + '"]').closest('li').addClass('active');
-    })
+                                })
     </script>
 </body>
 
