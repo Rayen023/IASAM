@@ -69,6 +69,9 @@
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">
 								<div>Day 2. <span>April 12, 2020</span></div>
 							</div>
+							<div class="tab active d-flex flex-row align-items-center justify-content-center">
+								<div>Day 3. <span>April 13, 2020</span></div>
+							</div>
 				
 						</div>
 
@@ -196,6 +199,96 @@
 											<div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">07:00 AM - 09:00 AM</div>
+												<div class="schedule_title">Breakfast</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									
+								</div>
+
+								<!-- Schedule Item -->
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/gallery_2.jpg" alt=""></div>
+											<div class="schedule_content">
+												<div class="schedule_time">09:00 AM - 10:30 AM</div>
+												<div class="schedule_title">Plenary talks</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>Plenary talks will include the oil and gas topic by Mr Jihed Adel: Quality
+										Manager at MSBI, and hopefully one of the IAS DLs for 2019/2020
+										</p>
+									</div>
+								</div>
+
+								<!-- Schedule Item -->
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+											<div class="schedule_content">
+												<div class="schedule_time">10:30 AM - 11:00 AM</div>
+												<div class="schedule_title">Networking Break</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>coming soon</p></div>
+								</div>
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/speaker_2.jpg" alt=""></div>
+											<div class="schedule_content">
+												<div class="schedule_time">11:00 AM - 13:00 AM</div>
+												<div class="schedule_title">Closing Ceremony</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>Coming soon</p></div>
+								</div>
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/schedule_8.jpg" alt=""></div>
+											<div class="schedule_content">
+												<div class="schedule_time">01:00 AM - 02:00 PM</div>
+												<div class="schedule_title">Check-Out</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									
+								</div>
+
+							</div>
+
+							<!-- Panel 3 -->
+							<div class="tab_panel">
+								
+								<!-- Schedule Item -->
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+											<div class="schedule_content">
+												<div class="schedule_time">08:00 AM - 09:00 AM</div>
 												<div class="schedule_title">Breakfast</div>
 												<div class="schedule_info"> <a href="#"></a> </div>
 											</div>

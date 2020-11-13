@@ -25,7 +25,7 @@
 }
 .team:hover .team_image::after {
   visibility: visible;
-  opacity: 0.2;
+  opacity: 0;
 }
 .team_info {
   position: absolute;

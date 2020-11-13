@@ -1,14 +1,14 @@
 	
 	<div id="menuId" class="menu">
 		<div class="menu_container">
-			<div class="menu_close"><i class="fa fa-times" aria-hidden="true"></i></div>
+			<!-- <div class="menu_close"><i class="fa fa-times" aria-hidden="true"></i></div> -->
 			<div id="menu_contentid" class="menu_content d-flex flex-column align-items-center justify-content-start">
 				<nav class="menu_nav">
 					<ul class="d-flex flex-column align-items-center justify-content-start">
 						<li><a href="index">Home</a></li>
-						<li><a href="about">About us</a></li>
 						<li><a href="program">Program</a></li>
 						<li><a href="committee">Committee</a></li>
+						<li><a href="about">About us</a></li>
 						<li><a href="contact">Contact</a></li>
 						<li><a href="registration">Registration</a></li>
 					</ul>

@@ -52,10 +52,22 @@
 				</div>
 			</div>
 		</div>
-    </div>
+	</div>
+	<div class="intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col text-center">
+						<div class="form">
+							<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchkPQ98SctnuVEFU6XTxPQY_Ynnlo7h35MIsricXxPggM4aw/viewform?embedded=true" width="640" height="943" scrolling="no" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+						</div>
+					</div>
+                </div>
+            </div>
+        </div>
+
     
 </body>
-	<!-- CTA -->
+<!-- CTA -->
 
 <!-- Footer -->
 <?php include "footer.php"; ?>

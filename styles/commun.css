@@ -246,10 +246,10 @@ p {
     background: #0b8643;
   }
   .button_3 {
-    background: #ce8e00;
+    background: #0d6e39;
   }
   .button_4 {
-    background: #0b8643;
+    background: #0d6e39;
     -webkit-transition: all 200ms ease;
     -moz-transition: all 200ms ease;
     -ms-transition: all 200ms ease;
@@ -269,13 +269,13 @@ p {
     background: #0b8643;
   }
   .button_2::after {
-    background: #15487b;
+    background: #ffffff;
   }
   .button_3::after {
-    background: #15487b;
+    background: #ffffff;
   }
   .button_4:hover {
-    background: #15487b;
+    background: #ffffff;
   }
   .button a {
     display: block;

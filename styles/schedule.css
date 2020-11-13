@@ -116,12 +116,15 @@
   content: "";
 }
 .tab {
-  width: 25%;
+  width: 33.33%;
   height: 113px;
   font-size: 24px;
   font-weight: 500;
   color: #ffffff;
   cursor: pointer;
+}
+.tab:hover {
+  color: black;
 }
 .tab span {
   font-size: 16px;
@@ -129,17 +132,17 @@
   margin-left: 8px;
 }
 .tab:first-child {
-  background: #0b8643;
-}
-.tab:nth-child(2) {
   background: #ce8e00;
 }
+.tab:nth-child(2) {
+  background: #0b8643;
+}
 .tab:nth-child(3) {
-  background: #b400ff;
+  background: #40798C
 }
-.tab:nth-child(4) {
+/* .tab:nth-child(4) {
   background: #ffcc00;
-}
+} */
 .tab_panel {
   display: none !important;
   -webkit-animation: fadeEffect 1s;

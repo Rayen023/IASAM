@@ -54,7 +54,7 @@
   .home_title h1 {
     font-size: 90px;
     font-weight: 700;
-    color: #ffffff;
+    color: #000000;
     font-style: italic;
     line-height: 0.75;
   }
@@ -88,5 +88,14 @@
     margin-left: 4px;
     margin-right: 4px;
   }
+  .form{
+  background-color: green;
+  padding: 100px;
+  width: 100%;
+  overflow-y: hidden;
+  }
+
+  .form iframe {
+    }
   
 

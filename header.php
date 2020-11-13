@@ -14,13 +14,10 @@
 			<nav class="main_nav">
 				<ul class="d-flex flex-row align-items-center justify-content-start">
 					<li class="active"><a href="index">Home</a></li>
-					<li class="">
-						<a href="about">About us</a>
-					</li>
-					<li class="">
-						<a href="program">Program</a>
-					</li>
+					
+					<li class=""><a href="program">Program</a></li>
 					<li><a href="committee">Committee</a></li>
+					<li class=""><a href="about">About us</a></li>
 					<li><a href="contact">Contact</a></li>
 				</ul>
 			</nav>
