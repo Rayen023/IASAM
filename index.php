@@ -349,14 +349,14 @@
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
-                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <!-- <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">07:00 PM - 08:30 PM</div>
                                             <div class="schedule_title">Dinner</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
-                                    </li>
+                                    </li> -->
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
                                         <div class="schedule_content">

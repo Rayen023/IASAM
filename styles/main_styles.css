@@ -335,7 +335,7 @@
   background: #ffffff;
   padding-bottom: 106px;
 }
-.schedule_row {
+.schedule_row {   
   margin-top: 58px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);

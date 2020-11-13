@@ -161,14 +161,6 @@
 		padding-left: 24px;
 		padding-right: 23px;
 	}
-	.footer_column
-	{
-		padding-top: 0;
-	}
-	.footer_col:not(:last-child)
-	{
-		margin-bottom: 80px;
-	}
 }
 
 /************

@@ -177,14 +177,7 @@
 	{
 		font-size: 72px;
 	}
-	.footer_column
-	{
-		padding-top: 0;
-	}
-	.footer_col:not(:last-child)
-	{
-		margin-bottom: 80px;
-	}
+	
 }
 
 /************
