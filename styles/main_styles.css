@@ -51,10 +51,6 @@
 .home_container {
   position: absolute;
   top: 51.5%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
   transform: translateY(-50%);
   left: 0px;
   width: 100%;
@@ -224,7 +220,7 @@
 
 .tabs_section {
   background: #ffffff;
-  padding-top: 103px;
+  padding-top: 75px;
   padding-bottom: 71px;
 }
 .tabs_container {
@@ -429,7 +425,7 @@
 .milestones {
   background: #ffffff;
   padding-top: 102px;
-  padding-bottom: 25px;
+  padding-bottom: 0px;
 }
 .milestone {
   width: 100%;

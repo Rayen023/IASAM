@@ -5,10 +5,16 @@
 }
 .teams_row {
   margin-top: 58px;
+
 }
 .team {
-  margin-bottom: 27px;
+  /* margin-bottom: 27px; */
+  /* margin: 20px 10px; */
+
 }
+.team_image{
+}
+
 .team_image::after {
   display: block;
   position: absolute;
