@@ -104,7 +104,7 @@
 							<p>Surely one of the most active chapters of the IEEE Tunisian Chapters, the IEEE Industry Applications Society chapter is more specialized in the industrial field, with the purpose of development and advancing of technology and science. While linking theory and practice to the application of electrical and electronic systems for the benefit of humanity. </p>
 						
 						</div>
-						<div class="button button_2 intro_button"><a href="https://www.facebook.com/iastunisia/"><span>Follow us</span><img src="images/arrow.png" alt=""></a></div>
+						<div class="button button_2 intro_button"><a href="https://www.facebook.com/iastunisia/"><img src="images/arrow_3.png" alt=""><span>  Follow us</span></a></div>
 					</div>
 				</div>
 

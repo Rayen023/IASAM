@@ -638,7 +638,7 @@
                     </div>
 
                     <!-- team -->
-                    <div class="col-xl-4 col-md-6">
+                    <!-- <div class="col-xl-4 col-md-6">
                         <div class="team">
                             <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
                             <div class="team_info flex  ">
@@ -659,10 +659,10 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- team -->
-                    <div class="col-xl-4 col-md-6">
+                    <!-- <div class="col-xl-4 col-md-6">
                         <div class="team">
                             <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
                             <div class="team_info flex  ">
@@ -683,7 +683,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
