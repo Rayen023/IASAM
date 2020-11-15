@@ -328,7 +328,8 @@
 *********************************/
 
 .schedule {
-  background: #ffffff;
+  background: #f5f8fb;
+  padding-top: 60px;
   padding-bottom: 106px;
 }
 .schedule_row {   
@@ -425,7 +426,7 @@
 .milestones {
   background: #ffffff;
   padding-top: 102px;
-  padding-bottom: 0px;
+  padding-bottom: 46px;
 }
 .milestone {
   width: 100%;

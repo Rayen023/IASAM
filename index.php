@@ -195,105 +195,7 @@
 
 			</div>
 		</div>
-	</div>
-        <!-- Tabs Section -->
-
-        <div class="tabs_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="section_title_container text-center">
-                            <div class="section_subtitle">see what's all about</div>
-                            <div class="section_title">
-                                <h1>The Topics</h1>
-                            </div>
-                        </div>
-                        <div class="tabs_container">
-                            <div class="tabs d-flex flex-row align-items-center justify-content-start flex-wrap">
-                                <div class="tab active">01. Workshop 1</div>
-                                <div class="tab">02. Workshop 2</div>
-                                <div class="tab">03. Workshop 3</div>
-                                <div class="tab">04. Workshop 4</div>
-
-                            </div>
-                            <div class="tab_panels">
-                                <div class="tab_panel active">
-                                    <div class="row">
-                                        <div class="col-lg-7">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>01. Workshop 1</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab_panel">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>02. Workshop 2</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab_panel">
-                                    <div class="row">
-                                        <div class="col-lg-7">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>03. Workshop 3</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab_panel">
-
-                                    <div class="row">
-                                        <div class="col-lg-7">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>04. Workshop 4</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
-
         <!-- Schedule -->
 
         <div class="schedule">
@@ -479,6 +381,105 @@
             </div>
         </div>
 
+        <!-- Tabs Section -->
+
+        <div class="tabs_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="section_title_container text-center">
+                            <div class="section_subtitle">see what's all about</div>
+                            <div class="section_title">
+                                <h1>The Topics</h1>
+                            </div>
+                        </div>
+                        <div class="tabs_container">
+                            <div class="tabs d-flex flex-row align-items-center justify-content-start flex-wrap">
+                                <div class="tab active">01. Workshop 1</div>
+                                <div class="tab">02. Workshop 2</div>
+                                <div class="tab">03. Workshop 3</div>
+                                <div class="tab">04. Workshop 4</div>
+
+                            </div>
+                            <div class="tab_panels">
+                                <div class="tab_panel active">
+                                    <div class="row">
+                                        <div class="col-lg-7">
+                                            <div class="tab_panel_content">
+                                                <div class="tab_title">
+                                                    <h3>01. Workshop 1</h3>
+                                                </div>
+                                                <div class="tab_text">
+                                                    <p>Coming soon</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-5 tab_col">
+                                            <div class="tab_panel_image"><img src="" alt=""></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab_panel">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="tab_panel_content">
+                                                <div class="tab_title">
+                                                    <h3>02. Workshop 2</h3>
+                                                </div>
+                                                <div class="tab_text">
+                                                    <p>Coming soon</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 tab_col">
+                                            <div class="tab_panel_image"><img src="" alt=""></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab_panel">
+                                    <div class="row">
+                                        <div class="col-lg-7">
+                                            <div class="tab_panel_content">
+                                                <div class="tab_title">
+                                                    <h3>03. Workshop 3</h3>
+                                                </div>
+                                                <div class="tab_text">
+                                                    <p>Coming soon</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-5 tab_col">
+                                            <div class="tab_panel_image"><img src="" alt=""></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab_panel">
+
+                                    <div class="row">
+                                        <div class="col-lg-7">
+                                            <div class="tab_panel_content">
+                                                <div class="tab_title">
+                                                    <h3>04. Workshop 4</h3>
+                                                </div>
+                                                <div class="tab_text">
+                                                    <p>Coming soon</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-5 tab_col">
+                                            <div class="tab_panel_image"><img src="" alt=""></div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
 
         <!-- teams -->
 
@@ -504,8 +505,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -528,8 +529,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -552,8 +553,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -575,8 +576,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -598,8 +599,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -621,8 +622,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>

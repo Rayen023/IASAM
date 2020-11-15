@@ -22,6 +22,10 @@
 .header.scrolled .header_content {
   height: 75px;
 }
+.header.scrolled{
+opacity: 0.77;
+
+}
 .logo {
   display: inline-block;
 }

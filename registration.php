@@ -34,7 +34,7 @@
 
     <!-- Home -->
 
-	<div class="home">
+	<!-- <div class="home">
 		<div class="home_container">
 			<div class="container">
 				<div class="row">
@@ -52,20 +52,21 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div class="intro">
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
 						<div class="form">
-							<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchkPQ98SctnuVEFU6XTxPQY_Ynnlo7h35MIsricXxPggM4aw/viewform?embedded=true" width="640" height="943" scrolling="no" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfi_rInkk7H8mxyNzviXACd0dr07M2U1Ot5QxVR4ZK58onEdQ/viewform?embedded=true" width="100%" height="2300" frameborder="0" marginheight="0"  marginwidth="0">Chargement…</iframe> 
+							<!-- scrolling="no" -->
 						</div>
 					</div>
                 </div>
             </div>
-        </div>
+		</div>
+</div> 
 
-    
 </body>
 <!-- CTA -->
 

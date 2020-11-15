@@ -8,7 +8,7 @@
 
 }
 .team {
-   margin-bottom: 27px; 
+  margin-bottom: 27px; 
   /* margin: 20px 10px; */
 
 }
@@ -40,12 +40,8 @@
   width: 100%;
   height: 67px;
   background: rgba(73, 73, 73, 0);
-  opacity: 0.9; 
+  opacity: 1; 
   padding: 0.5rem 1.25rem;
-  -webkit-transition: all 400ms ease;
-  -moz-transition: all 400ms ease;
-  -ms-transition: all 400ms ease;
-  -o-transition: all 400ms ease;
   transition: all 400ms ease;
 }
 .team:hover .team_info {

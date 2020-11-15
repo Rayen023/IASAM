@@ -86,8 +86,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -110,8 +110,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -134,8 +134,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -157,8 +157,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -180,8 +180,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>
@@ -203,8 +203,8 @@
 
                                 <div>
                                     <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
+                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
+                                    <div class="team_title">Program manager</div>
                                 </div>
 
                                 <div class="spacer"></div>

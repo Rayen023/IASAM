@@ -36,15 +36,11 @@
   *********************************/
   
   .home {
-    height: 511px;
+  
   }
   .home_container {
     position: absolute;
     top: 59.85%;
-    -webkit-transform: translateY(-50%);
-    -moz-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    -o-transform: translateY(-50%);
     transform: translateY(-50%);
     left: 0px;
     width: 100%;
@@ -89,13 +85,16 @@
     margin-right: 4px;
   }
   .form{
-  background-color: green;
-  padding: 100px;
-  width: 100%;
-  overflow-y: hidden;
+  /* background-color: green; */
+  padding: 180px 0px;
+  /* width: 100%; */
+  /* overflow-y: hidden; */
   }
 
   .form iframe {
     }
-  
+  .intro{
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(33, 116, 36) 100%);
+  }
 
