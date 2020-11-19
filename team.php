@@ -16,7 +16,7 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/farah2.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/farah2.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -40,7 +40,7 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/farah.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/farah.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -64,7 +64,7 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/mariem2.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/mariem2.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -87,7 +87,7 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/mariem.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/mariem.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -110,7 +110,7 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/chaima.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/chaima.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -133,7 +133,7 @@
                     <!-- team -->
                     <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/rayen.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/rayen.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -157,7 +157,7 @@
                     <!-- team -->
                     <!-- <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/jawher.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>
@@ -181,7 +181,7 @@
                     <!-- team -->
                     <!-- <div class="col-xl-4 col-md-6">
                         <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
+                            <div class="team_image"><img src="images/jawher.webp" alt=""></div>
                             <div class="team_info flex  ">
 
                                 <div>

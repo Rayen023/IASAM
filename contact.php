@@ -33,7 +33,7 @@
 	<!-- Home -->
 
 	<div class="home">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/contact_page.jpg" data-speed="0.8"></div>
+		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/contact_page.webp" data-speed="0.8"></div>
 		<div class="home_container">
 			<div class="container">
 				<div class="row">
@@ -96,7 +96,7 @@
 								</div>
 								<input type="text" class="contact_input" placeholder="Subject">
 								<textarea class="contact_textarea contact_input" placeholder="Message"></textarea>
-								<button class="contact_button"><span>send<img src="images/arrow.png" alt=""></span></button>
+								<button class="contact_button"><span>send<img src="images/arrow.webp" alt=""></span></button>
 							</form>
 						</div>
 					</div>

@@ -48,7 +48,7 @@
 
                     <!-- Slide -->
                     <div class="slide">
-                        <div class="background_image" style="background-image:url(images/cover.jpg)"></div>
+                        <div class="background_image" style="background-image:url(images/cover.webp)"></div>
                         <div class="home_container">
                             <div class="container">
                                 <div class="row">
@@ -65,13 +65,14 @@
                                                 <div class="home_info">
                                                     <ul
                                                         class="d-flex flex-row align-items-center justify-content-start">
-                                                        <li>11-12 December 2020</li>
+                                                        <li>Coming December 2020</li>
+                                                        <!-- <li>December 2020</li> -->
                                                         <li>Online</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="button button_1 home_button"><a
-                                                    href="registration"><span>Register<img src="images/arrow_2.png"
+                                                    href="registration"><span>Register<img src="images/arrow_2.webp"
                                                             alt=""></span></a></div>
                                         </div>
                                     </div>
@@ -94,7 +95,7 @@
 
         <div class="timer_section">
             <!-- <div class="parallax_background parallax-window" data-parallax="scroll"
-                data-image-src="images/timer (5).jpg" data-speed="0.8"></div> -->
+                data-image-src="images/timer (5).webp" data-speed="0.8"></div> -->
             <div class="timer_overlay"></div>
             <div class="container">
                 <div class="row">
@@ -143,7 +144,7 @@
                                 be held for the FIRST TIME.
                             </p>
                         </div>
-                        <!-- <div class="button button_2 intro_button"><a href="registration"><span>Register<img src="images/arrow.png"
+                        <!-- <div class="button button_2 intro_button"><a href="registration"><span>Register<img src="images/arrow.webp"
                                         alt=""></span></a></div> -->
                     </div>
                 </div>
@@ -231,7 +232,7 @@
                             <div class="schedule_list">
                                 <ul>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/gallery_1.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/gallery_1.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">12:00 AM - 02:00 PM</div>
                                             <div class="schedule_title">Check-In</div>
@@ -239,7 +240,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/latest_1.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/latest_1.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">03:00 PM - 04:30 PM</div>
                                             <div class="schedule_title">Opening Ceremony</div>
@@ -247,7 +248,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">04:30 PM - 05:00 PM</div>
                                             <div class="schedule_title">Networking Break</div>
@@ -255,7 +256,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/gallery_4.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/gallery_4.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">05:00 PM - 07:00 PM</div>
                                             <div class="schedule_title">Parallel Workshops</div>
@@ -263,7 +264,7 @@
                                         </div>
                                     </li>
                                     <!-- <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">07:00 PM - 08:30 PM</div>
                                             <div class="schedule_title">Dinner</div>
@@ -271,7 +272,7 @@
                                         </div>
                                     </li> -->
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">09:00 PM - 12:00 PM</div>
                                             <div class="schedule_title">Teambuilding</div>
@@ -291,7 +292,7 @@
                             <div class="schedule_list">
                                 <ul>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">07:00 AM - 09:00 AM</div>
                                             <div class="schedule_title">Breakfast</div>
@@ -299,7 +300,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/gallery_2.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">09:00 AM - 10:30 AM</div>
                                             <div class="schedule_title">Plenary talks</div>
@@ -307,7 +308,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">10:30 AM - 11:00 AM</div>
                                             <div class="schedule_title">Networking Break</div>
@@ -315,7 +316,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/speaker_2.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">11:00 AM - 13:00 AM</div>
                                             <div class="schedule_title">Closing Ceremony</div>
@@ -323,7 +324,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_8.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">01:00 AM - 02:00 PM</div>
                                             <div class="schedule_title">Check-Out</div>
@@ -343,7 +344,7 @@
                             <div class="schedule_list">
                                 <ul>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">07:00 AM - 09:00 AM</div>
                                             <div class="schedule_title">Breakfast</div>
@@ -351,7 +352,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/gallery_2.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">09:00 AM - 10:30 AM</div>
                                             <div class="schedule_title">Plenary talks</div>
@@ -359,7 +360,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">10:30 AM - 11:00 AM</div>
                                             <div class="schedule_title">Networking Break</div>
@@ -367,7 +368,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/speaker_2.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">11:00 AM - 13:00 AM</div>
                                             <div class="schedule_title">Closing Ceremony</div>
@@ -375,7 +376,7 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_8.jpg" alt=""></div>
+                                        <div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">01:00 AM - 02:00 PM</div>
                                             <div class="schedule_title">Check-Out</div>
@@ -514,16 +515,16 @@
                             <div class="owl-carousel owl-theme logos_slider">
 
                                 <?php /*<!-- Slide -->
-							<div class="slide"><img src="images/logo_1.png" alt=""></div>
+							<div class="slide"><img src="images/logo_1.webp" alt=""></div>
 
 							<!-- Slide -->
-							<div class="slide"><img src="images/logo_2.png" alt=""></div>
+							<div class="slide"><img src="images/logo_2.webp" alt=""></div>
 
 							<!-- Slide -->
-							<div class="slide"><img src="images/logo_3.png" alt=""></div>
+							<div class="slide"><img src="images/logo_3.webp" alt=""></div>
 
 							<!-- Slide -->
-							<div class="slide"><img src="images/logo_4.png" alt=""></div>
+							<div class="slide"><img src="images/logo_4.webp" alt=""></div>
 						*/ ?>
                             </div>
                         </div>

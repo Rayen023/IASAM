@@ -21,6 +21,7 @@
     <link rel="stylesheet" type="text/css" href="styles/menu.css">
     <link rel="stylesheet" type="text/css" href="styles/CTA.css">
     <link rel="stylesheet" type="text/css" href="styles/commun.css">
+    <link rel="stylesheet" type="text/css" href="styles/menu2.css">
 
 </head>
 
@@ -40,7 +41,7 @@
 
         <div class="home">
             <div class="parallax_background parallax-window" data-parallax="scroll"
-                data-image-src="images/about_page.jpg" data-speed="0.8"></div>
+                data-image-src="images/about_page.webp" data-speed="0.8"></div>
             <div class="home_container">
                 <div class="container">
                     <div class="row">
@@ -87,15 +88,15 @@
                             </div>
                             <div class="button button_2 intro_button"><a target="_blank"
                                     href="https://www.facebook.com/IASINSAT/"><span>Follow us</span><img
-                                        src="images/arrow.png" alt=""></a></div>
+                                        src="images/arrow.webp" alt=""></a></div>
                         </div>
                     </div>
 
                     <!-- Intro Image -->
                     <div class="col-xl-6">
                         <div class="intro_image">
-                            <img src="images/iasinsat.jpg" alt="">
-                            <div class="background_image" style="background-image:url(images/iasinsat.jpg)"></div>
+                            <img src="images/iasinsat.webp" alt="">
+                            <div class="background_image" style="background-image:url(images/iasinsat.webp)"></div>
                         </div>
                     </div>
 
@@ -124,7 +125,7 @@
 
                             </div>
                             <div class="button button_2 intro_button"><a target="_blank"
-                                    href="https://www.facebook.com/iastunisia/"><img src="images/arrow_3.png"
+                                    href="https://www.facebook.com/iastunisia/"><img src="images/arrow_3.webp"
                                         alt=""><span> Follow us</span></a></div>
                         </div>
                     </div>
@@ -132,8 +133,8 @@
                     <!-- Intro Image -->
                     <div class="col-xl-6 order-xl-1 order-2">
                         <div class="intro_image">
-                            <img src="images/iastunisia.jpg" alt="">
-                            <div class="background_image" style="background-image:url(images/iastunisia.jpg)"></div>
+                            <img src="images/iastunisia.webp" alt="">
+                            <div class="background_image" style="background-image:url(images/iastunisia.webp)"></div>
                         </div>
                     </div>
 

@@ -38,7 +38,7 @@
 
         <div class="home">
             <div class="parallax_background parallax-window" style="background-color: rgba(0,0,0,0.6);"
-                data-parallax="scroll" data-image-src="images/team.jpg" data-speed="0.8"></div>
+                data-parallax="scroll" data-image-src="images/team.webp" data-speed="0.8"></div>
             <div class="home_container">
                 <div class="container">
                     <div class="row">

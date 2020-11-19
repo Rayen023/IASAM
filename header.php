@@ -6,7 +6,7 @@
 	        <!-- Logo -->
 	        <div class="logo" style="width: 230px;">
 	            <a href="index">
-	                <img src="images/iasam.png" width="100%">
+	                <img src="images/iasam.webp" width="100%">
 	            </a>
 	        </div>
 
@@ -34,7 +34,7 @@
 	            </div>
 	            <div class="header_link">
 	                <a href="registration">
-	                    <span>Registration<img src="images/arrow.png" alt=""></span>
+	                    <span>Registration<img src="images/arrow.webp" alt=""></span>
 	                </a>
 	            </div>
 

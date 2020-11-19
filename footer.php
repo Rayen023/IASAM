@@ -44,7 +44,7 @@ footer ul{
 				<!-- Logo -->
 <div class="logo">
 	<a href="#">
-		<img width="40%" src="images/iasam.png"/>
+		<img width="40%" src="images/iasam.webp"/>
 	</a>
 </div>
 </div>

@@ -34,7 +34,7 @@
 	<!-- Home -->
 
 	<div class="home">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/schedule_page.jpg" data-speed="0.8"></div>
+		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/schedule_page.webp" data-speed="0.8"></div>
 		<div class="home_container">
 			<div class="container">
 				<div class="row">
@@ -86,7 +86,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_1.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/gallery_1.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">12:00 AM - 02:00 PM</div>
 												<div class="schedule_title">Check-In</div>
@@ -102,7 +102,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_1.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/latest_1.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">03:00 PM - 04:30 PM</div>
 												<div class="schedule_title">Opening Ceremony</div>
@@ -120,7 +120,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">04:30 PM - 05:00 PM</div>
 												<div class="schedule_title">Networking Break</div>
@@ -138,7 +138,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_4.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/gallery_4.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">05:00 PM - 07:00 PM</div>
 												<div class="schedule_title">Parallel Workshops</div>
@@ -158,7 +158,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">07:00 PM - 08:30 PM</div>
 												<div class="schedule_title">Dinner</div>
@@ -173,7 +173,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">09:00 PM - 12:00 PM</div>
 												<div class="schedule_title">Teambuilding</div>
@@ -197,7 +197,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">07:00 AM - 09:00 AM</div>
 												<div class="schedule_title">Breakfast</div>
@@ -213,7 +213,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_2.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">09:00 AM - 10:30 AM</div>
 												<div class="schedule_title">Plenary talks</div>
@@ -234,7 +234,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">10:30 AM - 11:00 AM</div>
 												<div class="schedule_title">Networking Break</div>
@@ -250,7 +250,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/speaker_2.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">11:00 AM - 13:00 AM</div>
 												<div class="schedule_title">Closing Ceremony</div>
@@ -266,7 +266,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_8.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">01:00 AM - 02:00 PM</div>
 												<div class="schedule_title">Check-Out</div>
@@ -287,7 +287,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_4.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">08:00 AM - 09:00 AM</div>
 												<div class="schedule_title">Breakfast</div>
@@ -303,7 +303,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_2.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">09:00 AM - 10:30 AM</div>
 												<div class="schedule_title">Plenary talks</div>
@@ -324,7 +324,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">10:30 AM - 11:00 AM</div>
 												<div class="schedule_title">Networking Break</div>
@@ -340,7 +340,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/speaker_2.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">11:00 AM - 13:00 AM</div>
 												<div class="schedule_title">Closing Ceremony</div>
@@ -356,7 +356,7 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_8.jpg" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
 											<div class="schedule_content">
 												<div class="schedule_time">01:00 AM - 02:00 PM</div>
 												<div class="schedule_title">Check-Out</div>

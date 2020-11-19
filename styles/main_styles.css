@@ -60,13 +60,13 @@
 .home_title h1 span {
   display: block;
   font-size: 90px;
-  font-weight: 700;
-  color:#0b8643;
+  font-weight: 600;
+  color:#01a149ad;
   line-height: 1;
-  font-style: italic;
+  /* font-style: italic; */
 }
 .home_title h1 span:first-of-type {
-  color: #242424;
+  color: #1b1b1bad;
 }
 .home_info_container {
   margin-top: 2px;
@@ -74,8 +74,8 @@
 .home_info {
   display: inline-block;
   height: 49px;
-  padding-left: 22px;
-  padding-right: 24px;
+  /* padding-left: 22px;
+  padding-right: 24px; */
   /*background: #000000;*/
 }
 .home_info ul {
