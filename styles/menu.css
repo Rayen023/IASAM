@@ -7,9 +7,12 @@
   z-index: 101;
   /* visibility: hidden;
   opacity: 0; */
-  display: none;
-  background: rgba(0, 0, 0, 0.9);
-  transition: all 400ms ease;
+  display: block;
+  visibility: hidden;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.75);
+  transition: visibility 0s, opacity 0.5s linear;
+ 
 }
 /* .menu.active {
   /* visibility: visible;
@@ -46,9 +49,10 @@
   display: inline-block;
 }
 .menu_nav a {
-  font-size: 36px;
-  font-weight: 500;
+  font-size: 34px;
+  font-weight: 400;
   color: #ffffff;
+  transform: translateX(-50%);
 }
 
 .menu_nav li:last-child a{  

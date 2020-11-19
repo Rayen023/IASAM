@@ -85,7 +85,7 @@
                                     Visits etc.
                                 </p>
                             </div>
-                            <div class="button button_2 intro_button"><a
+                            <div class="button button_2 intro_button"><a target="_blank"
                                     href="https://www.facebook.com/IASINSAT/"><span>Follow us</span><img
                                         src="images/arrow.png" alt=""></a></div>
                         </div>
@@ -123,7 +123,7 @@
                                     for the benefit of humanity. </p>
 
                             </div>
-                            <div class="button button_2 intro_button"><a
+                            <div class="button button_2 intro_button"><a target="_blank"
                                     href="https://www.facebook.com/iastunisia/"><img src="images/arrow_3.png"
                                         alt=""><span> Follow us</span></a></div>
                         </div>

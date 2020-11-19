@@ -83,7 +83,8 @@ p {
     opacity: 0.2;
   }
   ::selection {
-    background: rgba(11, 134, 67, 0.7);
+    background: #82b097;
+    opacity: 0.7;
     color: #ffffff;
     border-radius: 80%;
   }

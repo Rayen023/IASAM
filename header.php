@@ -5,7 +5,7 @@
 
 	        <!-- Logo -->
 	        <div class="logo" style="width: 230px;">
-	            <a href="#">
+	            <a href="index">
 	                <img src="images/iasam.png" width="100%">
 	            </a>
 	        </div>

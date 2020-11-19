@@ -85,14 +85,19 @@ $(document).ready(function()
 
 			hamburger.on('click', function()
 			{	
+				
+				Element.style.opacity="1";
+				Element.style.visibility ="visible";
 				Element.style.display= "block";
 					hideOnClickOutside(Element)
 			});
 
-			close.on('click', function()
-			{	
-				Element.style.display= "none";
-			});
+			// close.on('click', function()
+			// {	
+			// 	Element.style.display= "none";
+			// 	Element.style.opacity="0";
+			// 	Element.style.visibility ="hidden";
+			// });
 
 			const isVisible = elem => !!elem && !!( elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length )
 			
@@ -100,6 +105,8 @@ $(document).ready(function()
 				const outsideClickListener = event => {
 					if ( (Element.contains(event.target)) && isVisible(Element)) { 
 					Element.style.display = 'none'
+					Element.style.opacity="0";
+					Element.style.visibility ="hidden";
 					removeClickListener()
 					}
 				}
