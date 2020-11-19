@@ -115,7 +115,8 @@ p {
     -webkit-text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
     text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
     line-height: 1.2;
-    color: #15487b;
+    /* color: #15487b; */
+    color: #315659;
     font-weight: 700;
   }
   h1::selection,

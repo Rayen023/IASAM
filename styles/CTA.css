@@ -10,17 +10,17 @@
   width: 100%;
   height: 100%;
   /*background: rgb(11, 134, 67, 0.9);*/
-  background: #1d1d1d;
+  background: #333333;
 }
 .cta_title h1 {
-  color: #ffffff;
+  color: #d6e0e6;
 }
 .cta_text {
   margin-top: 18px;
 }
 .cta_text p {
   font-size: 18px;
-  color: #ffffff;
+  color: #d6e0e6;
 }
 .cta_button {
   margin-top: 23px;

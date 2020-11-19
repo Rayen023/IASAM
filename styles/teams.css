@@ -77,10 +77,11 @@
 }
 
 .team_social a {
-  font-size: 1.55rem;
+  font-size: 1.3rem;
   color: #0b8643;
   opacity: 0;
-  padding: 0.5rem;
+  /* padding: 0.5rem; */
+  padding: 1.5rem 0.5rem;
 }
 
 .flex {

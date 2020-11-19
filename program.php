@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <title>Program</title>
+<link rel="shortcut icon" href="iasam.ico" type="image/x-icon">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="IAS Tunisia Annual Meeting">
@@ -63,7 +64,7 @@
 
 						<!-- Tabs -->
 						<div class="tabs d-flex flex-row align-items-start justify-content-start flex-wrap">
-							<div class="tab active d-flex flex-row align-items-center justify-content-center">
+							<div class="tab active tab1 d-flex flex-row align-items-center justify-content-center">
 								<div>Day 1. <span>April 11, 2020</span></div>
 							</div>
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">

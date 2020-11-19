@@ -121,12 +121,12 @@ $(document).ready(function()
 	*/
 
 	function initTabs()
-	{
+	{$('.tab').removeClass('active');
+	$('.tab1').addClass('active');
+	
 		if($('.tab').length)
-		{
-			$('.tab').on('click', function()
-			{
-				$('.tab').removeClass('active');
+		{	$('.tab').on('click', function()
+			{	$('.tab').removeClass('active');
 				$(this).addClass('active');
 				var clickedIndex = $('.tab').index(this);
 

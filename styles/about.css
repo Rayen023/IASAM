@@ -46,10 +46,6 @@
 .home_container {
   position: absolute;
   top: 59.85%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
   transform: translateY(-50%);
   left: 0px;
   width: 100%;
@@ -59,7 +55,7 @@
 .home_title h1 {
   font-size: 90px;
   font-weight: 700;
-  color: #ffffff;
+  color: #d6e0e6;
   font-style: italic;
   line-height: 0.75;
 }

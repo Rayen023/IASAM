@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- head -->
 <head>
-    <title>IAS Tunisia Annual Meeting</title>
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="IAS Tunisia Annual Meeting">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>IAS Tunisia Annual Meeting</title>
+    <link rel="shortcut icon" href="iasam.ico" type="image/x-icon">
+
     <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="plugins/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.carousel.css">
@@ -22,13 +27,14 @@
     <link rel="stylesheet" type="text/css" href="styles/teams.css">
     <link rel="stylesheet" type="text/css" href="styles/commun.css">
 </head>
+<!-- body -->
 
 <body>
 
     <div class="super_container">
 
         <?php include "header.php" ?>
-        
+
         <!-- Menu -->
         <?php include "menu.php" ?>
 
@@ -64,8 +70,9 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="button button_1 home_button"><a href="registration"><span>Register<img
-                                                            src="images/arrow_2.png" alt=""></span></a></div>
+                                            <div class="button button_1 home_button"><a
+                                                    href="registration"><span>Register<img src="images/arrow_2.png"
+                                                            alt=""></span></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -142,59 +149,63 @@
                 </div>
             </div>
         </div>
-<!-- Milestones -->
+        <!-- Milestones -->
 
         <div class="milestones">
-		<div class="container">
-			<div class="row">
+            <div class="container">
+                <div class="row">
 
-				<!-- Milestone -->
-				<div class="col-xl-3 col-md-6 milestone_col">
-					<div class="milestone d-flex flex-row align-items-start justify-content-start">
-						<div class="milestone_icon d-flex flex-column align-items-center justify-content-center"><img src="images/icon_1.svg" alt="https://www.flaticon.com/authors/freepik"></div>
-						<div class="milestone_content">
-							<div class="milestone_counter" data-end-value="150" data-sign-after="">0</div>
-							<div class="milestone_text">Members</div>
-						</div>
-					</div>
-				</div>
+                    <!-- Milestone -->
+                    <div class="col-xl-3 col-md-6 milestone_col">
+                        <div class="milestone d-flex flex-row align-items-start justify-content-start">
+                            <div class="milestone_icon d-flex flex-column align-items-center justify-content-center">
+                                <img src="images/icon_1.svg" alt="https://www.flaticon.com/authors/freepik"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="150" data-sign-after="">0</div>
+                                <div class="milestone_text">Members</div>
+                            </div>
+                        </div>
+                    </div>
 
-				<!-- Milestone -->
-				<div class="col-xl-3 col-md-6 milestone_col">
-					<div class="milestone d-flex flex-row align-items-start justify-content-start">
-						<div class="milestone_icon d-flex flex-column align-items-center justify-content-center"><img src="images/icon_2.svg" alt="https://www.flaticon.com/authors/freepik"></div>
-						<div class="milestone_content">
-							<div class="milestone_counter" data-end-value="4">0</div>
-							<div class="milestone_text">Topics</div>
-						</div>
-					</div>
-				</div>
+                    <!-- Milestone -->
+                    <div class="col-xl-3 col-md-6 milestone_col">
+                        <div class="milestone d-flex flex-row align-items-start justify-content-start">
+                            <div class="milestone_icon d-flex flex-column align-items-center justify-content-center">
+                                <img src="images/icon_2.svg" alt="https://www.flaticon.com/authors/freepik"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="4">0</div>
+                                <div class="milestone_text">Topics</div>
+                            </div>
+                        </div>
+                    </div>
 
-				<!-- Milestone -->
-				<div class="col-xl-3 col-md-6 milestone_col">
-					<div class="milestone d-flex flex-row align-items-start justify-content-start">
-						<div class="milestone_icon d-flex flex-column align-items-center justify-content-center"><img src="images/icon_3.svg" alt="https://www.flaticon.com/authors/freepik"></div>
-						<div class="milestone_content">
-							<div class="milestone_counter" data-end-value="3">0</div>
-							<div class="milestone_text">Days</div>
-						</div>
-						
-					</div>
-				</div>
+                    <!-- Milestone -->
+                    <div class="col-xl-3 col-md-6 milestone_col">
+                        <div class="milestone d-flex flex-row align-items-start justify-content-start">
+                            <div class="milestone_icon d-flex flex-column align-items-center justify-content-center">
+                                <img src="images/icon_3.svg" alt="https://www.flaticon.com/authors/freepik"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="3">0</div>
+                                <div class="milestone_text">Days</div>
+                            </div>
 
-				<!-- Milestone -->
-				<div class="col-xl-3 col-md-6 milestone_col">
-					<div class="milestone d-flex flex-row align-items-start justify-content-start">
-						<div class="milestone_icon d-flex flex-column align-items-center justify-content-center"><img src="images/icon_4.svg" alt="https://www.flaticon.com/authors/freepik"></div>
-						<div class="milestone_content">
-							<div class="milestone_counter" data-end-value="10">0</div>
-							<div class="milestone_text">Speakers</div>
-						</div>
-					</div>
-				</div>
+                        </div>
+                    </div>
 
-			</div>
-		</div>
+                    <!-- Milestone -->
+                    <div class="col-xl-3 col-md-6 milestone_col">
+                        <div class="milestone d-flex flex-row align-items-start justify-content-start">
+                            <div class="milestone_icon d-flex flex-column align-items-center justify-content-center">
+                                <img src="images/icon_4.svg" alt="https://www.flaticon.com/authors/freepik"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="10">0</div>
+                                <div class="milestone_text">Speakers</div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
         </div>
         <!-- Schedule -->
 
@@ -479,232 +490,30 @@
             </div>
         </div>
 
-        
+
 
         <!-- teams -->
 
-        <div class="teams">
+        <?php include "team.php"; ?>
+        
+        <!-- Logos -->
+
+        <div class="logos">
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <div class="section_title_container text-center">
-                            <div class="section_subtitle">see what's all about</div>
-                            <div class="section_title">
-                                <h1>Meet The Team</h1>
-                            </div>
+                        <div class="section_title text-center">
+                            <h1>Official Sponsors & Partners</h1>
                         </div>
-                    </div>
-                </div>
-                <div class="row teams_row">
-
-                    <!-- team -->
-                    <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
-                                    <div class="team_title">Program manager</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
+                        <div class="logos_text text-center">
+                            <p>Coming Soon</p>
                         </div>
-                    </div>
 
-                    <!-- team -->
-                    <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
+                        <!-- Logos Slider -->
+                        <div class="logos_slider_container">
+                            <div class="owl-carousel owl-theme logos_slider">
 
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
-                                    <div class="team_title">Program manager</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- team -->
-                    <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
-                                    <div class="team_title">Program manager</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- team -->
-                    <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
-                                    <div class="team_title">Program manager</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- team -->
-                    <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
-                                    <div class="team_title">Program manager</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- team -->
-                    <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Farah hamraoui</a></div>
-                                    <div class="team_title">Program manager</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- team -->
-                    <!-- <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div> -->
-
-                    <!-- team -->
-                    <!-- <div class="col-xl-4 col-md-6">
-                        <div class="team">
-                            <div class="team_image"><img src="images/jawher.jpg" alt=""></div>
-                            <div class="team_info flex  ">
-
-                                <div>
-                                    <div class="team_name"><a target="_blank" rel="noreferrer"
-                                            href="https://www.facebook.com/jawher.maaroufi.7">Jawher Maaroufi</a></div>
-                                    <div class="team_title">Chairman</div>
-                                </div>
-
-                                <div class="spacer"></div>
-
-                                <ul class="team_social">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i
-                                                class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i
-                                                class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div> -->
-
-                </div>
-            </div>
-        </div>
-
-	<!-- Logos -->
-
-	<div class="logos">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center"><h1>Official Sponsors & Partners</h1></div>
-					<div class="logos_text text-center">
-						<p>Coming Soon</p></div>
-
-					<!-- Logos Slider -->
-					<div class="logos_slider_container">
-						<div class="owl-carousel owl-theme logos_slider">
-							
-							<?php /*<!-- Slide -->
+                                <?php /*<!-- Slide -->
 							<div class="slide"><img src="images/logo_1.png" alt=""></div>
 
 							<!-- Slide -->
@@ -716,12 +525,12 @@
 							<!-- Slide -->
 							<div class="slide"><img src="images/logo_4.png" alt=""></div>
 						*/ ?>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- CTA -->
 
@@ -755,7 +564,7 @@
 
         $('li.active').removeClass('active');
         $('a[href="' + decodeURI(location.pathname).substring(1) + '"]').closest('li').addClass('active');
-                                })
+    })
     </script>
 </body>
 
