@@ -65,13 +65,13 @@
 						<!-- Tabs -->
 						<div class="tabs d-flex flex-row align-items-start justify-content-start flex-wrap">
 							<div class="tab active tab1 d-flex flex-row align-items-center justify-content-center">
-								<div>Day 1. <span>April 11, 2020</span></div>
+								<div>Day 1. <span>December 26, 2020</span></div>
 							</div>
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">
-								<div>Day 2. <span>April 12, 2020</span></div>
+								<div>Day 2. <span>December 27, 2020</span></div>
 							</div>
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">
-								<div>Day 3. <span>April 13, 2020</span></div>
+								<div>Day 3. <span>December 28, 2020</span></div>
 							</div>
 				
 						</div>

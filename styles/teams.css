@@ -42,12 +42,11 @@
   background: rgba(73, 73, 73, 0);
   opacity: 1; 
   padding: 0.5rem 1.25rem;
-  transition: all 400ms ease;
+  transition: all 500ms ease;
 }
 .team:hover .team_info {
   background: #000000;
   opacity: 0.85;
-
 }
 
 .team:hover .team_social a {

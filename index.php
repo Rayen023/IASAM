@@ -227,7 +227,7 @@
                     <!-- Schedule Column -->
                     <div class="schedule_col">
                         <div class="schedule_container">
-                            <div class="schedule_title_bar schedule_title_bar_1 text-center">Day 1. <span>April 11,
+                            <div class="schedule_title_bar schedule_title_bar_1 text-center">Day 1. <span>December 26,
                                     2020</span></div>
                             <div class="schedule_list">
                                 <ul>
@@ -287,7 +287,7 @@
                     <!-- Schedule Column -->
                     <div class="schedule_col">
                         <div class="schedule_container">
-                            <div class="schedule_title_bar schedule_title_bar_2 text-center">Day 2. <span>April 12,
+                            <div class="schedule_title_bar schedule_title_bar_2 text-center">Day 2. <span>December 27,
                                     2020</span></div>
                             <div class="schedule_list">
                                 <ul>
@@ -339,7 +339,7 @@
                     <!-- Schedule Column -->
                     <div class="schedule_col">
                         <div class="schedule_container">
-                            <div class="schedule_title_bar schedule_title_bar_3 text-center">Day 3. <span>April 13,
+                            <div class="schedule_title_bar schedule_title_bar_3 text-center">Day 3. <span>December 28,
                                     2020</span></div>
                             <div class="schedule_list">
                                 <ul>
