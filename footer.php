@@ -34,7 +34,7 @@ footer ul{
 							<ul class="social_icons">
                                     <li><a target="_blank" href="https://www.facebook.com/iastunisia/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                     <li><a target="_blank" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                                     <li><a target="_blank" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
@@ -42,11 +42,20 @@ footer ul{
 					</div>
 				</div>
 				<!-- Logo -->
+<div>
 <div class="logo">
-	<a href="#">
-		<img width="40%" src="images/iasam.webp"/>
-	</a>
-</div>
+		<img width="auto" height="210px" src="images/iasam.webp"/>
+	</div>
+						<div style="top:-70px" class="social">
+                                <ul class="social_icons">
+                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://twitter.com/ieee_ias_insat"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/ieee.ias.insat"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+							</div>
+							</div>
+
 </div>
 			</div>
 		</div>
