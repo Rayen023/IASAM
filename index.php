@@ -222,6 +222,82 @@
                         </div>
                     </div>
                 </div>
+                <div class="row schedule_row0">
+
+                    <!-- Schedule Column -->
+                    <div class="schedule_col">
+                        <div class="schedule_container">
+                            <div class="schedule_title_bar schedule_title_bar_1 text-center">Day 1. <span>December 18,
+                                    2020</span></div>
+                            <div class="schedule_list">
+                                <ul>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">02:00 PM - 05:00 PM</div>
+                                            <div class="schedule_title">Workshop 1</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/gallery_4.webp" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">02:00 PM - 05:00 PM</div>
+                                            <div class="schedule_title">Workshop 2</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">06:00 PM - 08:00 PM</div>
+                                            <div class="schedule_title">Workshop 3</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Schedule Column -->
+                    <div class="schedule_col">
+                        <div class="schedule_container">
+                            <div class="schedule_title_bar schedule_title_bar_2 text-center">Day 2. <span>December 19,
+                                    2020</span></div>
+                            <div class="schedule_list">
+                                <ul>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">09:00 AM - 12:00 AM</div>
+                                            <div class="schedule_title">Workshop 1</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">09:00 AM - 12:00 AM</div>
+                                            <div class="schedule_title">Workshop 2</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                    <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
+                                        <div class="schedule_content">
+                                            <div class="schedule_time">02:00 PM - 04:00 AM</div>
+                                            <div class="schedule_title">Workshop 3</div>
+                                            <div class="schedule_info"><a href="#"></a> </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Schedule Column -->
+
+                </div>
                 <div class="row schedule_row">
 
                     <!-- Schedule Column -->
@@ -234,48 +310,32 @@
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/gallery_1.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">12:00 AM - 02:00 PM</div>
-                                            <div class="schedule_title">Check-In</div>
+                                            <div class="schedule_time">01:00 PM - 03:00 PM</div>
+                                            <div class="schedule_title">Opening Ceremony</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/latest_1.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">03:00 PM - 04:30 PM</div>
-                                            <div class="schedule_title">Opening Ceremony</div>
+                                            <div class="schedule_time">03:00 PM - 05:00 PM</div>
+                                            <div class="schedule_title">Conferance 1</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">04:30 PM - 05:00 PM</div>
-                                            <div class="schedule_title">Networking Break</div>
+                                            <div class="schedule_time">05:00 PM - 05:30 PM</div>
+                                            <div class="schedule_title">Artistic Pause</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
-                                    <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/gallery_4.webp" alt=""></div>
-                                        <div class="schedule_content">
-                                            <div class="schedule_time">05:00 PM - 07:00 PM</div>
-                                            <div class="schedule_title">Parallel Workshops</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
-                                        </div>
-                                    </li>
-                                    <!-- <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
-                                        <div class="schedule_content">
-                                            <div class="schedule_time">07:00 PM - 08:30 PM</div>
-                                            <div class="schedule_title">Dinner</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
-                                        </div>
-                                    </li> -->
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">09:00 PM - 12:00 PM</div>
-                                            <div class="schedule_title">Teambuilding</div>
+                                            <div class="schedule_time">06:00 PM - 08:00 PM</div>
+                                            <div class="schedule_title">Debat</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
@@ -294,16 +354,16 @@
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">07:00 AM - 09:00 AM</div>
-                                            <div class="schedule_title">Breakfast</div>
+                                            <div class="schedule_time">09:00 AM - 11:30 AM</div>
+                                            <div class="schedule_title">Job fair</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">09:00 AM - 10:30 AM</div>
-                                            <div class="schedule_title">Plenary talks</div>
+                                            <div class="schedule_time">11:30 AM - 12:30 AM</div>
+                                            <div class="schedule_title">Artistic Pause</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
@@ -311,15 +371,7 @@
                                         <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">10:30 AM - 11:00 AM</div>
-                                            <div class="schedule_title">Networking Break</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
-                                        </div>
-                                    </li>
-                                    <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
-                                        <div class="schedule_content">
-                                            <div class="schedule_time">11:00 AM - 13:00 AM</div>
-                                            <div class="schedule_title">Closing Ceremony</div>
+                                            <div class="schedule_title">Conferance 2</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
@@ -327,7 +379,7 @@
                                         <div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">01:00 AM - 02:00 PM</div>
-                                            <div class="schedule_title">Check-Out</div>
+                                            <div class="schedule_title">Competition</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
@@ -346,8 +398,8 @@
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">07:00 AM - 09:00 AM</div>
-                                            <div class="schedule_title">Breakfast</div>
+                                            <div class="schedule_time">09:00 AM - 12:00 AM</div>
+                                            <div class="schedule_title">Closing cerenomy</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
@@ -368,22 +420,13 @@
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
+                                    <div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
                                         <div class="schedule_content">
                                             <div class="schedule_time">11:00 AM - 13:00 AM</div>
                                             <div class="schedule_title">Closing Ceremony</div>
                                             <div class="schedule_info"><a href="#"></a> </div>
                                         </div>
                                     </li>
-                                    <li class="d-flex flex-row align-items-center justify-content-start">
-                                        <div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
-                                        <div class="schedule_content">
-                                            <div class="schedule_time">01:00 AM - 02:00 PM</div>
-                                            <div class="schedule_title">Check-Out</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
-                                        </div>
-                                    </li>
-
                                 </ul>
                             </div>
                         </div>
@@ -394,103 +437,6 @@
         </div>
 
         <!-- Tabs Section -->
-
-        <div class="tabs_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="section_title_container text-center">
-                            <div class="section_subtitle">see what's all about</div>
-                            <div class="section_title">
-                                <h1>The Topics</h1>
-                            </div>
-                        </div>
-                        <div class="tabs_container">
-                            <div class="tabs d-flex flex-row align-items-center justify-content-start flex-wrap">
-                                <div class="tab active">01. Workshop 1</div>
-                                <div class="tab">02. Workshop 2</div>
-                                <div class="tab">03. Workshop 3</div>
-                                <div class="tab">04. Workshop 4</div>
-
-                            </div>
-                            <div class="tab_panels">
-                                <div class="tab_panel active">
-                                    <div class="row">
-                                        <div class="col-lg-7">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>01. Workshop 1</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab_panel">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>02. Workshop 2</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab_panel">
-                                    <div class="row">
-                                        <div class="col-lg-7">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>03. Workshop 3</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab_panel">
-
-                                    <div class="row">
-                                        <div class="col-lg-7">
-                                            <div class="tab_panel_content">
-                                                <div class="tab_title">
-                                                    <h3>04. Workshop 4</h3>
-                                                </div>
-                                                <div class="tab_text">
-                                                    <p>Coming soon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 tab_col">
-                                            <div class="tab_panel_image"><img src="" alt=""></div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
 
 
         <!-- teams -->

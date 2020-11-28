@@ -25,6 +25,7 @@ $(document).ready(function()
 	*/
 
 	initTabs();
+	initwtabs();
 	initScrolling();
 
 	$(window).on('resize', function()
@@ -141,7 +142,28 @@ $(document).ready(function()
 			});
 		}
 	}
+	function initwtabs()
+	{
+	
+		if($('.wtab').length)
+		{	
+			$('.wtab').on('click', function()
+			{	$('.wtab').removeClass('active');
+				$(this).addClass('active');
+				var clickedIndex = $('.wtab').index(this);
 
+				var panels = $('.wtab_panel');
+				panels.removeClass('active');
+				$(panels[clickedIndex]).addClass('active');
+
+				setTimeout(function()
+				{
+					$(window).trigger('resize.px.parallax');
+				}, 375);
+			});
+		}
+	}
+	
 	/* 
 
 	5. Init Scrolling

@@ -1,0 +1,105 @@
+
+.wtabs_section {
+    background: #ffffff;
+    padding-top: 75px;
+    /* padding-bottom: 71px; */
+  }
+  .wtabs_container {
+    margin-top: 50px;
+  }
+  .wtab {
+    height: 57px;
+    background: #f5f8fb;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    font-size: 16px;
+    color: #15487b;
+    font-weight: 500;
+    line-height: 57px;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    margin-bottom: 6px;
+    -webkit-transition: all 200ms ease;
+    -moz-transition: all 200ms ease;
+    -ms-transition: all 200ms ease;
+    -o-transition: all 200ms ease;
+    transition: all 200ms ease;
+  }
+  .wtab:hover {
+    background: #0b8643;
+    color: #ffffff;
+  }
+  .wtab:not(:last-child) {
+    margin-right: 6px;
+  }
+  .wtab.active {
+    background: #0b8643;
+    color: #ffffff;
+  }
+  .wtab_panels {
+    padding-top: 0px;
+    padding-bottom: 25px;
+  }
+  .wtab_panel {
+    display: none !important;
+    width: 100%;
+    height: 100%;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect 1s;
+  }
+  /* Fade in wtabs */
+  @-webkit-keyframes fadeEffect {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeEffect {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .wtab_panel.active {
+    display: block !important;
+  }
+  .wtab_panel_content p:last-of-type {
+    margin-bottom: 0;
+  }
+  .wtab_title {
+    margin-top: 24px;
+  }
+  .wtab_text {
+    margin-top: 20px;
+  }
+  .wtab_text p {
+    -webkit-transform: translateY(8px);
+    -moz-transform: translateY(8px);
+    -ms-transform: translateY(8px);
+    -o-transform: translateY(8px);
+    transform: translateY(8px);
+  }
+  .wtab_image {
+    width: 100%;
+  }
+  .wtab_image img {
+    max-width: 100%;
+  }
+  .wtab_link {
+    margin-top: 35px;
+  }
+  .wtab_link a {
+    font-size: 14px;
+    font-weight: 700;
+    color: #0b8643;
+    text-decoration: underline;
+  }
+  .wtab_link a:hover {
+    color: #ce8e00;
+  }

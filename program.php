@@ -17,6 +17,7 @@
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
 <link rel="stylesheet" type="text/css" href="styles/CTA.css">
 <link rel="stylesheet" type="text/css" href="styles/commun.css">
+
 </head>
 <body>
 
@@ -54,6 +55,7 @@
 		</div>
 	</div>
 
+	<?php include "workshops.php"?>
 	<!-- Schedule -->
 
 	<div class="schedule">
@@ -134,41 +136,9 @@
 										<p>Coming soon</p></div>
 								</div>
 
-								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_4.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">05:00 PM - 07:00 PM</div>
-												<div class="schedule_title">Parallel Workshops</div>
-											</div>
-										</div>
-										
-									</div>
-									<div class="schedule_text">
-										<div class="schedule_text_title">Details</div>
-										<p>
-										Coming soon!
-										</p>
-									</div>
-								</div>
 
 								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">07:00 PM - 08:30 PM</div>
-												<div class="schedule_title">Dinner</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									
-								</div>
+								
 
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
@@ -194,22 +164,7 @@
 							<div class="tab_panel">
 								
 								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">07:00 AM - 09:00 AM</div>
-												<div class="schedule_title">Breakfast</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									
-								</div>
-
-								<!-- Schedule Item -->
+								
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
@@ -263,41 +218,13 @@
 										<div class="schedule_text_title">Details</div>
 										<p>Coming soon</p></div>
 								</div>
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">01:00 AM - 02:00 PM</div>
-												<div class="schedule_title">Check-Out</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									
-								</div>
+								
 
 							</div>
 
 							<!-- Panel 3 -->
 							<div class="tab_panel">
 								
-								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_4.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">08:00 AM - 09:00 AM</div>
-												<div class="schedule_title">Breakfast</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									
-								</div>
 
 								<!-- Schedule Item -->
 								<div class="schedule_item">
@@ -352,20 +279,6 @@
 									<div class="schedule_text">
 										<div class="schedule_text_title">Details</div>
 										<p>Coming soon</p></div>
-								</div>
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/schedule_8.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">01:00 AM - 02:00 PM</div>
-												<div class="schedule_title">Check-Out</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									
 								</div>
 
 							</div>

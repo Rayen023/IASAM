@@ -136,7 +136,7 @@
   margin-left: 8px;
 }
 .tab:first-child {
-  background: #ce8e00;
+  background: #e4572e;
 }
 .tab:nth-child(2) {
   background: #0b8643;
@@ -220,7 +220,7 @@
 }
 .schedule_text {
   padding-left: 125px;
-  margin-top: 35px;
+  /* margin-top: 35px; */
 }
 .schedule_text_title {
   display: inline-block;
@@ -241,7 +241,7 @@
   content: "";
 }
 .schedule_text > p:first-of-type {
-  margin-top: 8px;
+  /* margin-top: 8px; */
 }
 .scroll_up {
   position: absolute;

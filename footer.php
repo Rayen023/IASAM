@@ -46,12 +46,12 @@ footer ul{
 <div class="logo">
 		<img width="auto" height="210px" src="images/iasam.webp"/>
 	</div>
-						<div style="top:-70px" class="social">
+						<div style="top:-76px" class="social">
                                 <ul class="social_icons">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/IASTunisiaAM"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                     <li><a target="_blank" href="https://twitter.com/ieee_ias_insat"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                     <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/ieee.ias.insat"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/iastnam/?hl=fr"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
 							</div>
 							</div>
