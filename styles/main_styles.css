@@ -44,10 +44,7 @@
 .home {
   height: 100vh;
 }
-.home_slider_container {
-  width: 100%;
-  height: 100%;
-}
+
 .home_container {
   position: absolute;
   top: 51.5%;
@@ -99,39 +96,7 @@
 .home_button {
   margin-top: 60px;
 }
-.home_slider_dots_container {
-  position: absolute;
-  left: 0;
-  bottom: 27px;
-  width: 100%;
-  z-index: 1;
-}
-.home_slider_custom_dot:not(:last-child) {
-  margin-right: 3px;
-}
-.home_slider_custom_dot {
-  width: 43px;
-  height: 43px;
-  background: transparent;
-  text-align: center;
-  line-height: 43px;
-  font-size: 16px;
-  font-weight: 700;
-  color: #ffffff;
-  cursor: pointer;
-  -webkit-transition: all 200ms ease;
-  -moz-transition: all 200ms ease;
-  -ms-transition: all 200ms ease;
-  -o-transition: all 200ms ease;
-  transition: all 200ms ease;
-}
-.home_slider_custom_dot.active,
-.home_slider_custom_dot:hover {
-  background: #0b8643;
-}
-.home_slider .owl-dots {
-  display: none;
-}
+
 
 /*********************************
 6. Timer

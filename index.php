@@ -43,11 +43,10 @@
         <div class="home">
 
             <!-- Home Slider -->
-            <div class="home_slider_container">
-                <div class="owl-carousel owl-theme home_slider">
+            
 
                     <!-- Slide -->
-                    <div class="slide">
+                    
                         <div class="background_image" style="background-image:url(images/cover.webp)"></div>
                         <div class="home_container">
                             <div class="container">
@@ -79,7 +78,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    
 
                     <!-- Slide -->
 
@@ -88,7 +87,7 @@
 
                 <!-- Home Slider Dots -->
 
-            </div>
+            
         </div>
 
         <!-- Timer -->

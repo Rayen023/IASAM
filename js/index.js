@@ -28,7 +28,7 @@ $(document).ready(function()
 	var header = $('.header');
 	var ctrl = new ScrollMagic.Controller();
 
-	initHomeSlider();
+	// initHomeSlider();
 	initTimer();
 	initTabs();
 	initMilestones();
