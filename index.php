@@ -235,7 +235,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">09:00 AM - 12:30 AM</div>
                                             <div class="schedule_title">9 Industries presentations</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -243,7 +243,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">12:30 AM - 01:00 PM</div>
                                             <div class="schedule_title">Lunch break</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -251,7 +251,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">01:00 PM - 03:00 PM</div>
                                             <div class="schedule_title">6 Industries presentations</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                 </ul>
@@ -271,7 +271,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">02:00 PM - 03:30 PM</div>
                                             <div class="schedule_title">Workshop 1</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -279,7 +279,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">03:30 PM - 05:00 PM</div>
                                             <div class="schedule_title">Workshop 2</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -287,7 +287,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">05:00 PM - 06:30 AM</div>
                                             <div class="schedule_title">Workshop 3</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                 </ul>
@@ -311,7 +311,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">02:00 PM - 02:30 PM</div>
                                             <div class="schedule_title">Opening Ceremony</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -319,7 +319,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">02:30 PM - 03:30 PM</div>
                                             <div class="schedule_title">Icebreaking</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -327,7 +327,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">03:30 PM - 04:30 PM</div>
                                             <div class="schedule_title">Panel Session</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -335,7 +335,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">04:30 PM - 06:00 PM</div>
                                             <div class="schedule_title">Technical Challenge</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                 </ul>
@@ -355,7 +355,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">09:00 AM - 10:30 AM</div>
                                             <div class="schedule_title">IAS Presentations</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -363,7 +363,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">10:30 AM - 11:00 AM</div>
                                             <div class="schedule_title">Artistic Break</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
@@ -371,7 +371,7 @@
                                         <div class="schedule_content">
                                             <div class="schedule_time">11:00 AM - 12:00 AM</div>
                                             <div class="schedule_title">Success Story</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     
@@ -380,7 +380,7 @@
                                         <div class="schedule_content">
                                         <div class="schedule_time">12:00 AM - 01:00 PM</div>
                                             <div class="schedule_title">Closing ceremony</div>
-                                            <div class="schedule_info"><a href="#"></a> </div>
+                                            <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                 </ul>

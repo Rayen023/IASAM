@@ -92,7 +92,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">02:00 PM - 03:30 PM</div>
 												<div class="schedule_title">Opening ceremony and Icebreaking</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
@@ -111,7 +111,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">03:30 PM - 04:30 PM</div>
 												<div class="schedule_title">Conference and Debate</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
@@ -129,7 +129,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">04:30 PM - 06:00 PM</div>
 												<div class="schedule_title">Technical challenge: Pitching</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
@@ -175,7 +175,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">09:00 AM - 10:30 AM</div>
 												<div class="schedule_title">Non Technical Challenge: IAS PRESENTATIONS</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
@@ -195,7 +195,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">10:30 AM - 11:00 AM</div>
 												<div class="schedule_title">Break</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
@@ -211,7 +211,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">11:00 AM - 12:00 AM</div>
 												<div class="schedule_title">Success Story</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
@@ -227,7 +227,7 @@
 											<div class="schedule_content">
 												<div class="schedule_time">11:00 AM - 12:00 AM</div>
 												<div class="schedule_title">Winners annoucement and Closing ceremony</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
 										
