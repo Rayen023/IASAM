@@ -40,7 +40,7 @@
         <!-- Home -->
 
         <div class="home">
-            <div class="parallax_background parallax-window" data-parallax="scroll"
+            <div class="parallax_background parallax-window"  data-parallax="scroll"
                 data-image-src="images/about_page.webp" data-speed="0.8"></div>
             <div class="home_container">
                 <div class="container">
@@ -86,16 +86,16 @@
                                     Visits etc.
                                 </p>
                             </div>
-                            <div class="button button_2 intro_button"><a target="_blank"
+                            <div class="button button_2 intro_button"><a rel="noreferrer" target="_blank"
                                     href="https://www.facebook.com/IASINSAT/"><span>Follow us</span><img
-                                        src="images/arrow.webp" alt=""></a></div>
+                                        src="images/arrow.webp" alt="ias logo"></a></div>
                         </div>
                     </div>
 
                     <!-- Intro Image -->
                     <div class="col-xl-6">
                         <div class="intro_image">
-                            <img src="images/iasinsat.webp" alt="">
+                            <img src="images/iasinsat.webp" alt="logo">
                             <div class="background_image" style="background-image:url(images/iasinsat.webp)"></div>
                         </div>
                     </div>
@@ -124,16 +124,16 @@
                                     for the benefit of humanity. </p>
 
                             </div>
-                            <div class="button button_2 intro_button"><a target="_blank"
+                            <div class="button button_2 intro_button"><a rel="noreferrer" target="_blank"
                                     href="https://www.facebook.com/iastunisia/"><img src="images/arrow_3.webp"
-                                        alt=""><span> Follow us</span></a></div>
+                                        alt="arrow"><span> Follow us</span></a></div>
                         </div>
                     </div>
 
                     <!-- Intro Image -->
                     <div class="col-xl-6 order-xl-1 order-2">
                         <div class="intro_image">
-                            <img src="images/iastunisia.webp" alt="">
+                            <img src="images/iastunisia.webp" alt="ias logo">
                             <div class="background_image" style="background-image:url(images/iastunisia.webp)"></div>
                         </div>
                     </div>

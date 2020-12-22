@@ -6,7 +6,7 @@
 	        <!-- Logo -->
 	        <div class="logo" style="width: 230px;">
 	            <a href="index">
-	                <img src="images/iasam.webp" width="100%">
+	                <img src="images/iasam.webp" width="100%" alt="ias logo 1">
 	            </a>
 	        </div>
 
@@ -17,7 +17,8 @@
 	                <li class=""><a href="program">Program</a></li>
 	                <li><a href="committee">Committee</a></li>
 	                <li class=""><a href="about">About us</a></li>
-	                <li><a href="contact">Contact</a></li>
+					<li><a href="contact">Contact</a></li>
+					<li><a href="job_fair">Job fair</a></li>
 	            </ul>
 	        </nav>
 
@@ -34,7 +35,7 @@
 	            </div>
 	            <div class="header_link">
 	                <a href="registration">
-	                    <span>Registration<img src="images/arrow.webp" alt=""></span>
+	                    <span>Registration<img src="images/arrow.webp" alt="arrow"></span>
 	                </a>
 	            </div>
 

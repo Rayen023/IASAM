@@ -23,19 +23,19 @@ footer ul{
 							<p style="margin-bottom:0">IAS Insat Student Branch</p>
                             <div style="margin-top:0" class="social">
                                 <ul class="social_icons">
-                                    <li><a target="_blank" href="https://web.facebook.com/IASINSAT"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://twitter.com/ieee_ias_insat"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/ieee.ias.insat"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://web.facebook.com/IASINSAT"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://twitter.com/ieee_ias_insat"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.instagram.com/ieee.ias.insat"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                             <p>IAS Tunisia Section</p>
                             <div style="margin-top:0" class="social">
 							<ul class="social_icons">
-                                    <li><a target="_blank" href="https://www.facebook.com/iastunisia/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.facebook.com/iastunisia/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://twitter.com/ieee_ias_insat"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.linkedin.com/company/ieee-ias-tunisia-section/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.instagram.com/ias_tunisia_section/?hl=fr"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
 							</div>
@@ -44,14 +44,14 @@ footer ul{
 				<!-- Logo -->
 <div>
 <div class="logo">
-		<img width="auto" height="210px" src="images/iasam.webp"/>
+		<img width="auto" height="210px" src="images/iasam2.webp" alt="ias logo"/>
 	</div>
 						<div style="top:-76px" class="social">
                                 <ul class="social_icons">
-                                    <li><a target="_blank" href="https://www.facebook.com/IASTunisiaAM"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://twitter.com/ieee_ias_insat"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/iastnam/?hl=fr"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.facebook.com/IASTunisiaAM"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://twitter.com/IEEEIASTAM2020"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.linkedin.com/company/ieee-insat-ias-sbc"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a rel="noreferrer" target="_blank" href="https://www.instagram.com/iastnam/?hl=fr"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
 							</div>
 							</div>

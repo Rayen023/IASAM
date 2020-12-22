@@ -35,7 +35,7 @@
 	<!-- Home -->
 
 	<div class="home">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/schedule_page.webp" data-speed="0.8"></div>
+		<div class="parallax_background parallax-window"  data-parallax="scroll" data-image-src="images/schedule_page.webp" data-speed="0.8"></div>
 		<div class="home_container">
 			<div class="container">
 				<div class="row">
@@ -67,10 +67,10 @@
 						<!-- Tabs -->
 						<div class="tabs d-flex flex-row align-items-start justify-content-start flex-wrap">
 							<div class="tab active tab1 d-flex flex-row align-items-center justify-content-center">
-								<div>Day 1. <span>December 26, 2020</span></div>
+								<div>Day 3. <span>February 6, 2021</span></div>
 							</div>
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">
-								<div>Day 2. <span>December 27, 2020</span></div>
+								<div>Day 4. <span>February 7, 2021</span></div>
 							</div>
 							<!-- <div class="tab active d-flex flex-row align-items-center justify-content-center">
 								<div>Day 3. <span>December 28, 2020</span></div>
@@ -88,26 +88,10 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_1.webp" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_2.webp" alt="speaker"></div>
 											<div class="schedule_content">
-												<div class="schedule_time">12:00 AM - 02:00 PM</div>
-												<div class="schedule_title">Check-In</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									
-								</div>
-
-								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_1.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">03:00 PM - 04:30 PM</div>
-												<div class="schedule_title">Opening Ceremony</div>
+												<div class="schedule_time">02:00 PM - 03:30 PM</div>
+												<div class="schedule_title">Opening ceremony and Icebreaking</div>
 												<div class="schedule_info"> <a href="#"></a> </div>
 											</div>
 										</div>
@@ -115,17 +99,36 @@
 									</div>
 									<div class="schedule_text">
 										<div class="schedule_text_title">Details</div>
-										<p>coming soon</p></div>
+										<p>Coming soon</p></div>
+									
 								</div>
 
 								<!-- Schedule Item -->
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_5.webp" alt="speakers"></div>
 											<div class="schedule_content">
-												<div class="schedule_time">04:30 PM - 05:00 PM</div>
-												<div class="schedule_title">Networking Break</div>
+												<div class="schedule_time">03:30 PM - 04:30 PM</div>
+												<div class="schedule_title">Conference and Debate</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>Coming soon</p></div>
+								</div>
+
+								<!-- Schedule Item -->
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/schedule_3.webp" alt="workspace"></div>
+											<div class="schedule_content">
+												<div class="schedule_time">04:30 PM - 06:00 PM</div>
+												<div class="schedule_title">Technical challenge: Pitching</div>
 												<div class="schedule_info"> <a href="#"></a> </div>
 											</div>
 										</div>
@@ -140,7 +143,7 @@
 								<!-- Schedule Item -->
 								
 
-								<div class="schedule_item">
+								<!-- <div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
 											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
@@ -156,7 +159,7 @@
 										<div class="schedule_text_title">Details</div>
 										<p>coming soon</p>
 										</div>
-								</div>
+								</div> -->
 
 							</div>
 
@@ -168,10 +171,10 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_5.webp" alt="workspace"></div>
 											<div class="schedule_content">
 												<div class="schedule_time">09:00 AM - 10:30 AM</div>
-												<div class="schedule_title">Plenary talks</div>
+												<div class="schedule_title">Non Technical Challenge: IAS PRESENTATIONS</div>
 												<div class="schedule_info"> <a href="#"></a> </div>
 											</div>
 										</div>
@@ -179,8 +182,7 @@
 									</div>
 									<div class="schedule_text">
 										<div class="schedule_text_title">Details</div>
-										<p>Plenary talks will include the oil and gas topic by Mr Jihed Adel: Quality
-										Manager at MSBI, and hopefully one of the IAS DLs for 2019/2020
+										<p>Coming soon
 										</p>
 									</div>
 								</div>
@@ -189,26 +191,10 @@
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
+											<div class="schedule_image"><img src="images/schedule_6.webp" alt="coffee"></div>
 											<div class="schedule_content">
 												<div class="schedule_time">10:30 AM - 11:00 AM</div>
-												<div class="schedule_title">Networking Break</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									<div class="schedule_text">
-										<div class="schedule_text_title">Details</div>
-										<p>coming soon</p></div>
-								</div>
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">11:00 AM - 13:00 AM</div>
-												<div class="schedule_title">Closing Ceremony</div>
+												<div class="schedule_title">Break</div>
 												<div class="schedule_info"> <a href="#"></a> </div>
 											</div>
 										</div>
@@ -218,70 +204,43 @@
 										<div class="schedule_text_title">Details</div>
 										<p>Coming soon</p></div>
 								</div>
-								
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/schedule_7.webp" alt="conference speaker"></div>
+											<div class="schedule_content">
+												<div class="schedule_time">11:00 AM - 12:00 AM</div>
+												<div class="schedule_title">Success Story</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>Coming soon</p></div>
+								</div>
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/schedule_8.webp" alt="ceremony photo"></div>
+											<div class="schedule_content">
+												<div class="schedule_time">11:00 AM - 12:00 AM</div>
+												<div class="schedule_title">Winners annoucement and Closing ceremony</div>
+												<div class="schedule_info"> <a href="#"></a> </div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>Coming soon</p></div>
+								</div>
 
 							</div>
 
 							<!-- Panel 3 -->
-							<div class="tab_panel">
-								
-
-								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/gallery_2.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">09:00 AM - 10:30 AM</div>
-												<div class="schedule_title">Plenary talks</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									<div class="schedule_text">
-										<div class="schedule_text_title">Details</div>
-										<p>Plenary talks will include the oil and gas topic by Mr Jihed Adel: Quality
-										Manager at MSBI, and hopefully one of the IAS DLs for 2019/2020
-										</p>
-									</div>
-								</div>
-
-								<!-- Schedule Item -->
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/latest_3.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">10:30 AM - 11:00 AM</div>
-												<div class="schedule_title">Networking Break</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									<div class="schedule_text">
-										<div class="schedule_text_title">Details</div>
-										<p>coming soon</p></div>
-								</div>
-								<div class="schedule_item">
-									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-											<div class="schedule_image"><img src="images/speaker_2.webp" alt=""></div>
-											<div class="schedule_content">
-												<div class="schedule_time">11:00 AM - 13:00 AM</div>
-												<div class="schedule_title">Closing Ceremony</div>
-												<div class="schedule_info"> <a href="#"></a> </div>
-											</div>
-										</div>
-										
-									</div>
-									<div class="schedule_text">
-										<div class="schedule_text_title">Details</div>
-										<p>Coming soon</p></div>
-								</div>
-
-							</div>
+							
 
 
 						</div>

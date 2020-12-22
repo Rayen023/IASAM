@@ -91,6 +91,13 @@ opacity: 0.77;
   color: #000000;
   padding: 2rem 0;
 }
+.main_nav ul li:last-child a {
+  animation: breathing 4s ease-out infinite normal;
+  color:#0b8643;
+  font-weight: 600;
+}
+
+
 .main_nav > ul > li a:hover,
 .main_nav > ul > li.active a,
 .main_nav > ul > li > a:hover::after {

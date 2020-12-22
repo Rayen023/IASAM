@@ -199,16 +199,16 @@
 .schedule_row {   
   margin-top: 58px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  column-gap: 15px;
-  
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 35px;
+  padding: 0px 80px;
 }
 .schedule_row0 {   
   margin-top: 58px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  column-gap: 15px;
-  padding: 0px 180px;
+  column-gap: 35px;
+  padding: 0px 80px;
   
 }
 .schedule_container {
@@ -270,7 +270,7 @@
 .schedule_time {
   font-size: 14px;
   font-weight: 700;
-  color: #0b8643;
+  color: #000000;
 }
 .schedule_title {
   font-size: 24px;

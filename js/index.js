@@ -177,7 +177,7 @@ $(document).ready(function()
     	if($('.timer').length)
     	{
     		// Uncomment line below and replace date
-	    	var target_date = new Date("12 20 2020").getTime();
+	    	var target_date = new Date("02 06 2021").getTime();
 
 	    	// comment lines below
 	    	//var date = new Date();
