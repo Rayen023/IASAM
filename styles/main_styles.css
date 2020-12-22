@@ -460,14 +460,14 @@
 *********************************/
 
 .logos {
-  background: #f5f8fb;
+  background: #ffffff;
   padding-bottom: 87px;
 }
 .logos_text {
   margin-top: 38px;
 }
 .logos_slider_container {
-  margin-top: 54px;
+  margin-top: 4px;
 }
 .logos_slider .slide {
   display: -webkit-box;
@@ -478,7 +478,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 76px;
+  height: 246px;
 }
 .owl-carousel.logos_slider .owl-item img {
   width: auto;

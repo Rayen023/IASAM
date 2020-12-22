@@ -441,7 +441,7 @@
 
         <!-- teams -->
 
-        <?php include "team.php"; ?>
+         <!-- ?php include "team.php"; ?>  -->
         
         <!-- Logos -->
 
@@ -449,18 +449,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <div class="section_title text-center">
+                        <div class="section_title text-center" style="margin-top : 40px">
                             <h1>Official Sponsors & Partners</h1>
-                        </div>
-                        <div class="logos_text text-center">
-                            <p>Coming Soon</p>
                         </div>
 
                         <!-- Logos Slider -->
                         <div class="logos_slider_container">
                             <div class="owl-carousel owl-theme logos_slider">
 
-                                <?php /*<!-- Slide -->
+                                <!-- Slide -->
 							<div class="slide"><img src="images/logo_1.webp" alt=""></div>
 
 							<!-- Slide -->
@@ -471,7 +468,7 @@
 
 							<!-- Slide -->
 							<div class="slide"><img src="images/logo_4.webp" alt=""></div>
-						*/ ?>
+						
                             </div>
                         </div>
                     </div>

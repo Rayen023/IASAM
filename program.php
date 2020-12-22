@@ -72,9 +72,9 @@
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">
 								<div>Day 2. <span>December 27, 2020</span></div>
 							</div>
-							<div class="tab active d-flex flex-row align-items-center justify-content-center">
+							<!-- <div class="tab active d-flex flex-row align-items-center justify-content-center">
 								<div>Day 3. <span>December 28, 2020</span></div>
-							</div>
+							</div> -->
 				
 						</div>
 
