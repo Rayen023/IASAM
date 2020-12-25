@@ -1,6 +1,110 @@
 *, *::after, *::before {
   box-sizing: border-box;
 }
+body {
+  font-family: 'Poppins';font-size: 18px;
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
+  #portrait {
+  opacity: 1;
+  z-index: 11;
+  }
+}
+
+.container
+{
+    position:fixed;
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(116, 116, 116);
+}
+
+.modal_logo img{
+position: fixed;
+top: 8%;
+right: 8%;
+width: 115px;
+height: auto;
+}
+
+#portrait {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(116, 116, 116);
+  pointer-events: none;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.portrait_title{
+  font-size: 6vh;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  max-width: 95%;
+  }
+
+.portrait_body{
+font-size: 4vh;
+color: white;
+text-align: center;
+max-width: 85%;
+}
+
+.portrait_logo{
+  padding: 2%;
+  width: 35%;
+  height: auto;
+}
+
+#overlay {
+  position: fixed;
+  opacity: 0;
+  transition: 200ms ease-in-out;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(116, 116, 116, 0.5);
+  pointer-events: none;
+}
+
+#overlay.active {
+  opacity: 1;
+  pointer-events: all;
+  z-index: 5;
+}
+
+.map_img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1);
+  height: 100%;
+  width: 100%;
+}
+
+.map{
+  position: relative;
+  height: 100vh;
+  width: 85vw;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1);
+}
+
 
 .modal {
   position: fixed;
@@ -8,29 +112,40 @@
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
   transition: 200ms ease-in-out;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   border-radius: 10px;
   z-index: 10;
   background-color: white;
-  width: 500px;
+  width: 650px;
+  min-height: 250px;
+  max-height: 80%;
   max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  overflow:auto;
 }
 
+.growth{
+flex-grow: 1;
+
+}
 .modal.active {
   transform: translate(-50%, -50%) scale(1);
 }
 
 .modal-header {
-  padding: 10px 15px;
+  padding: 10px 25px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid black;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .modal-header .title {
-  font-size: 1.25rem;
+  font-size: 2rem;
   font-weight: bold;
+  padding-top: 1rem;
 }
 
 .modal-header .close-button {
@@ -42,23 +157,159 @@
   font-weight: bold;
 }
 
-.modal-body {
+.modal_time {
+  padding-left: 25px;
+  padding-bottom: 0.75rem;
+  font-size: 14px;
+  font-weight: 700;
+  color: red;
+}
+
+.modal_mail{
   padding: 10px 15px;
 }
 
-#overlay {
-  position: fixed;
-  opacity: 0;
-  transition: 200ms ease-in-out;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, .5);
-  pointer-events: none;
+.modal-body {
+  padding: 10px 25px;
 }
 
-#overlay.active {
-  opacity: 1;
-  pointer-events: all;
+.modal_button{
+  padding: 0px 20px;
+  cursor: pointer;
+  background-color: rgb(175, 33, 33);
+  border: none;
+  border-radius: 30px;
+  color: white;
+  /* display: inline-flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: center; */
 }
+
+
+
+.madal_button_out{
+  display: flex;
+  justify-content: center;
+  padding: 20px 25px;
+}
+
+.flag1 a img
+{
+  position: absolute;
+  bottom: 35%;
+  left: 16%;
+  width: 10%;
+  height: 18%;  
+}
+
+.flag1 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+
+
+.flag2 a img
+{
+  position: absolute;
+  bottom: 55%;
+  left: 56%;
+  width: 10%;
+  height: 18%;}
+
+.flag2 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+.flag3 a img
+{
+  position: absolute;
+  bottom: 45%;
+  left: 56%;
+  width: 10%;
+  height: 18%;}
+
+.flag3 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+.flag4 a img
+{
+  position: absolute;
+  bottom: 15%;
+  left: 56%;
+  width: 10%;
+  height: 18%;}
+
+.flag4 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+.flag5 a img
+{
+  position: absolute;
+  bottom: 15%;
+  left: 76%;
+  width: 10%;
+  height: 18%;}
+
+.flag5 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+.flag6 a img
+{
+  position: absolute;
+  bottom: 35%;
+  left: 36%;
+  width: 10%;
+  height: 18%;}
+
+.flag6 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+.flag7 a img
+{
+  position: absolute;
+  bottom: 65%;
+  left: 66%;
+  width: 10%;
+  height: 18%;
+}
+
+.flag7 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+.flag8 a img
+{
+  position: absolute;
+  bottom: 25%;
+  left: 26%;
+  width: 10%;
+  height: 18%;
+}
+
+.flag8 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem crimson);
+}
+
+

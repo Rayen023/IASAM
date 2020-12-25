@@ -34,3 +34,28 @@ function closeModal(modal) {
   modal.classList.remove('active')
   overlay.classList.remove('active')
 }
+
+// // $(document).ready(function()
+// // {
+// //   lock('landscape');
+
+//   function lock (orientation) {
+//     // Go into full screen first
+//     if (document.documentElement.requestFullscreen) {
+//       screen.orientation.lock('landscape');
+//     } 
+  
+//     // Then lock orientation
+//     screen.orientation.lock('landscape');
+//   }
+  
+//   function unlock () {
+//     // Unlock orientation
+//     screen.orientation.unlock();
+   
+//     // Exit full screen
+//     if (document.exitFullscreen) {
+//       document.exitFullscreen();
+//     } 
+//   }
+// // }
