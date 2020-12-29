@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFM7KDK600"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EFM7KDK600');
+</script>
 <title>Register</title>
 <link rel="shortcut icon" href="iasam.ico" type="image/x-icon">
 <meta charset="utf-8">
@@ -59,7 +68,9 @@
                 <div class="row">
                     <div class="col text-center">
 						<div class="form">
-						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfi_rInkk7H8mxyNzviXACd0dr07M2U1Ot5QxVR4ZK58onEdQ/viewform?embedded=true" width="100%" height="2300" frameborder="0" marginheight="0"  marginwidth="0">Chargement…</iframe> 
+							<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1Szdby-yBhnAdULMmE975R4_vUqgf17v9tjiW2JuGU5uXMA/viewform?embedded=true" width="100%" height="1103" frameborder="0" marginheight="0" marginwidth="0" >Chargement…</iframe>
+
+							
 							<!-- scrolling="no" -->
 						</div>
 					</div>

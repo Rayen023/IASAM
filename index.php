@@ -3,7 +3,15 @@
 
 <!-- head -->
 <head>
-    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFM7KDK600"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EFM7KDK600');
+</script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="IAS Tunisia Annual Meeting">
@@ -161,7 +169,7 @@
                             <div class="milestone_icon d-flex flex-column align-items-center justify-content-center">
                                 <img src="images/icon_1.svg" alt="https://www.flaticon.com/authors/freepik"></div>
                             <div class="milestone_content">
-                                <div class="milestone_counter" data-end-value="150" data-sign-after="">0</div>
+                                <div class="milestone_counter" data-end-value="155" data-sign-after="">0</div>
                                 <div class="milestone_text">Participants</div>
                             </div>
                         </div>
@@ -233,24 +241,24 @@
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/schedule_10.webp" alt="speaker"></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">09:00 AM - 12:30 AM</div>
-                                            <div class="schedule_title">9 Industries presentations</div>
+                                            <div class="schedule_time">09:00 AM - 09:10 AM</div>
+                                            <div class="schedule_title">Opening</div>
                                             <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/schedule_9.webp" alt="speaker2"></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">12:30 AM - 01:00 PM</div>
-                                            <div class="schedule_title">Lunch break</div>
+                                            <div class="schedule_time">09:10 AM - 12:00 AM</div>
+                                            <div class="schedule_title">Presentations</div>
                                             <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <div class="schedule_image"><img src="images/schedule_7.webp" alt="speaker3"></div>
                                         <div class="schedule_content">
-                                            <div class="schedule_time">01:00 PM - 03:00 PM</div>
-                                            <div class="schedule_title">6 Industries presentations</div>
+                                            <div class="schedule_time">12:00 PM - 12:10 PM</div>
+                                            <div class="schedule_title">Closing</div>
                                             <!-- <div class="schedule_info"><a href="#"></a> </div> -->
                                         </div>
                                     </li>

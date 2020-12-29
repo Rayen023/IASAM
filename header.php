@@ -18,7 +18,7 @@
 	                <li><a href="committee">Committee</a></li>
 	                <li class=""><a href="about">About us</a></li>
 					<li><a href="contact">Contact</a></li>
-					<li><a href="job_fair">Job fair</a></li>
+					<li><a href="iasjob">Job fair</a></li>
 	            </ul>
 	        </nav>
 

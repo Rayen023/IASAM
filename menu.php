@@ -9,7 +9,7 @@
 						<li><a href="program">Program</a></li>
 						<li><a href="committee">Committee</a></li>
 						<li><a href="about">About us</a></li>
-						<li><a href="job_fair">Job fair</a></li>
+						<li><a href="iasjob">Job fair</a></li>
 						<li><a href="contact">Contact</a></li>
 						<li><a href="registration">Registration</a></li>
 					</ul>

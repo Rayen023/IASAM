@@ -1,17 +1,62 @@
+@charset "utf-8";
 *, *::after, *::before {
   box-sizing: border-box;
 }
+* {
+	outline: none;
+}
+
 body {
   font-family: 'Poppins';font-size: 18px;
 
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
-  #portrait {
-  opacity: 1;
-  z-index: 11;
+
+
+
+@media screen and (min-width: 475px){
+  .map{
+    height: 55vw;
+    width: 95vw;
+    max-height: 100vh;
   }
 }
+
+
+@media screen and (min-width: 1157px){
+  .map{
+    height: 52vw;
+    width: 97vw;
+    
+  }
+}
+
+@media screen and (min-width: 1257px){
+  .map{
+    height: 50vw;
+    width: 90vw;
+    
+  }
+}
+
+@media screen and (orientation: portrait) {
+  html {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    width: 100vh;
+    height: 100vw;
+    overflow-x: hidden;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+  .map{
+    height: 55vh;
+    width: 95vh;
+    max-height: 100vw;
+  }
+}
+
 
 .container
 {
@@ -22,23 +67,29 @@ body {
     left:0;
     right: 0;
     bottom: 0;
-    background-color: rgb(116, 116, 116);
+    background-color: rgb(214, 225, 230);
+}
+.modal_logo{
+
+  cursor: pointer;
+
 }
 
 .modal_logo img{
-position: fixed;
+  position: fixed;
 top: 8%;
 right: 8%;
 width: 115px;
 height: auto;
 }
-
+/* 
 #portrait {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
+  opacity: 0;
   background-color: rgb(116, 116, 116);
   pointer-events: none;
   display:flex;
@@ -67,7 +118,7 @@ max-width: 85%;
   padding: 2%;
   width: 35%;
   height: auto;
-}
+} */
 
 #overlay {
   position: fixed;
@@ -77,14 +128,14 @@ max-width: 85%;
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(116, 116, 116, 0.5);
+  background-color: rgba(214, 225, 230, 0.5);
   pointer-events: none;
 }
 
 #overlay.active {
   opacity: 1;
   pointer-events: all;
-  z-index: 5;
+  z-index: 2;
 }
 
 .map_img{
@@ -98,11 +149,10 @@ max-width: 85%;
 
 .map{
   position: relative;
-  height: 100vh;
-  width: 85vw;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(1);
+  z-index: 2;
 }
 
 
@@ -114,7 +164,7 @@ max-width: 85%;
   transition: 200ms ease-in-out;
   /* border: 1px solid black; */
   border-radius: 10px;
-  z-index: 10;
+  z-index: 3;
   background-color: white;
   width: 650px;
   min-height: 250px;
@@ -131,6 +181,7 @@ flex-grow: 1;
 }
 .modal.active {
   transform: translate(-50%, -50%) scale(1);
+  
 }
 
 .modal-header {
@@ -146,6 +197,7 @@ flex-grow: 1;
   font-size: 2rem;
   font-weight: bold;
   padding-top: 1rem;
+  color: rgb(16, 146, 31);
 }
 
 .modal-header .close-button {
@@ -162,7 +214,7 @@ flex-grow: 1;
   padding-bottom: 0.75rem;
   font-size: 14px;
   font-weight: 700;
-  color: red;
+  color: green;
 }
 
 .modal_mail{
@@ -174,20 +226,28 @@ flex-grow: 1;
 }
 
 .modal_button{
-  padding: 0px 20px;
+  /* padding: 0px 20px; */
   cursor: pointer;
-  background-color: rgb(175, 33, 33);
+  background-color: rgb(16, 146, 31);
   border: none;
   border-radius: 30px;
   color: white;
-  /* display: inline-flex;
-  flex-wrap: wrap;
-  gap: 12px;
+  display: flex;
+  flex-wrap: wrap; 
+  flex-direction: row;
+  gap: 8px;
   align-items: center;
-  justify-content: center; */
+  justify-content: center; 
+  max-width: 45%;
+  filter: drop-shadow(0 0 0.3rem rgba(0, 0, 0,0.5));
 }
 
+.modal_bl{
+  width: 9%;
+  height: auto;
+  
 
+}
 
 .madal_button_out{
   display: flex;
@@ -195,121 +255,208 @@ flex-grow: 1;
   padding: 20px 25px;
 }
 
+/* .conf_button
+{
+  position: absolute;
+  bottom: 15%;
+  left: 35%;
+  width: 30%; 
+}
+.conf{
+background-color: rgb(42, 141, 72);
+cursor: pointer;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap; 
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center; 
+  height: 5vw;
+} */
+
+.meet img{
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  width: 10%;
+  height: 18%;
+  filter: drop-shadow(0 0 0.5rem rgb(0, 0, 0));
+  z-index: 2;
+
+}
+.meet img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem rgb(0, 0, 0));
+}
+
+
 .flag1 a img
 {
   position: absolute;
-  bottom: 35%;
-  left: 16%;
-  width: 10%;
-  height: 18%;  
+  bottom: 60.2%;
+  left: 66.1%;
+  width: 22.5%;
+  height: 31.1%;  
 }
 
 .flag1 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem crimson);
 }
 
+.flag1 .title{
+  color: rgb(167, 14, 44);
+}
+.flag1 .modal_button{
+  background-color: rgb(167, 14, 44);
+}
 
 
 .flag2 a img
 {
   position: absolute;
-  bottom: 55%;
-  left: 56%;
-  width: 10%;
-  height: 18%;}
+  bottom: 24.4%;
+  left: 48%;
+  width: 22.8%;
+  height: 25.7%;}
 
 .flag2 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem rgb(190, 178, 0));
+}
+
+.flag2 .title{
+  color: rgb(0, 0, 0);
+}
+.flag2 .modal_button{
+  background-color: rgb(0, 0, 0);
 }
 
 .flag3 a img
 {
   position: absolute;
-  bottom: 45%;
-  left: 56%;
-  width: 10%;
-  height: 18%;}
+  bottom: 60.2%;
+  left: 6%;
+  width: 20%;
+  height: 22%;}
 
 .flag3 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem rgb(57, 0, 148));
+}
+.flag3 .title{
+  color: rgb(96, 0, 151);
+}
+.flag3 .modal_button{
+  background-color: rgb(96, 0, 151);
 }
 
 .flag4 a img
 {
   position: absolute;
-  bottom: 15%;
-  left: 56%;
-  width: 10%;
-  height: 18%;}
+  bottom: 24.4%;
+  left: 22%;
+  width: 28%;
+  height: 27%;}
 
 .flag4 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem rgb(117, 0, 23));
+}
+
+.flag4 .title{
+  color: rgb(117, 0, 23);
+}
+.flag4 .modal_button{
+  background-color: rgb(117, 0, 23);
 }
 
 .flag5 a img
 {
   position: absolute;
-  bottom: 15%;
-  left: 76%;
-  width: 10%;
-  height: 18%;}
+  bottom: 60.2%;
+  left: 28.1%;
+  width: 20.5%;
+  height: 26%;}
 
 .flag5 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem rgb(0, 179, 119));
+}
+
+.flag5 .title{
+  color: rgb(0, 179, 119);
+}
+.flag5 .modal_button{
+  background-color: rgb(0, 179, 119);
 }
 
 .flag6 a img
 {
   position: absolute;
-  bottom: 35%;
-  left: 36%;
-  width: 10%;
-  height: 18%;}
+  bottom: 24.4%;
+  left: 70.4%;
+  width: 24%;
+  height: 27.4%;}
 
 .flag6 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem rgb(139, 86, 0));
+}
+
+.flag6 .title{
+  color: rgb(139, 86, 0);
+}
+.flag6 .modal_button{
+  background-color: rgb(139, 86, 0);
 }
 
 .flag7 a img
 {
   position: absolute;
-  bottom: 65%;
-  left: 66%;
-  width: 10%;
-  height: 18%;
+  bottom: 60.2%;
+  left: 48.6%;
+  width: 16.5%;
+  height: 30.5%;
 }
 
 .flag7 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
+ filter: drop-shadow(0 0 0.25rem rgb(0, 0, 0));
 }
 
-.flag8 a img
+.flag7 .title{
+  color: rgb(0, 0, 0);
+}
+.flag7 .modal_button{
+  background-color: rgb(0, 0, 0);
+}
+
+.flag8 img
 {
   position: absolute;
-  bottom: 25%;
-  left: 26%;
-  width: 10%;
-  height: 18%;
+  bottom: 24.4%;
+  left: 6.2%;
+  width: 14.5%;
+  height: 31%;
+  z-index: 1;
 }
 
-.flag8 a img:hover
+/* .flag8 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.5rem crimson);
-}
+ filter: drop-shadow(0 0 0.2rem rgb(0, 133, 7));
+} */
 
 
