@@ -19,6 +19,7 @@ body {
     height: 55vw;
     width: 95vw;
     max-height: 100vh;
+    max-width: 100vw;
   }
 }
 
@@ -54,6 +55,7 @@ body {
     height: 55vh;
     width: 95vh;
     max-height: 100vw;
+    max-width: 100vh;
   }
 }
 

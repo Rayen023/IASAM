@@ -192,10 +192,10 @@
       </div>
       <div class="growth"></div>
       <div class="madal_button_out">
-      <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/1M1kY630bngO2j89UBY4LbFyIh9HuUTAQ?usp=sharing');">
-      <div>CATALOGUE</div>
+      <button class="modal_button" >
+      <div>NA</div>
           <img class="modal_bl" src="images/map/drive.svg" alt="flag">
-        </button>        <div class="modal_mail">aymen.messaoud@poulinagroup.com</div>
+        </button>        <div class="modal_mail">NA</div>
       </div>
     </div>
     </div>
@@ -216,8 +216,8 @@ As a systems partner to notable automobile manufacturers, as well as Californian
       </div>
       <div class="growth"></div>
       <div class="madal_button_out">
-      <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/139ZsaZtFIv_b5dv1oE_7A4YbNaMec42Q?usp=sharing');">
-      <div>CATALOGUE</div>
+      <button class="modal_button">
+      <div>NA</div>
           <img class="modal_bl" src="images/map/drive.svg" alt="flag">
         </button>        <div class="modal_mail">NA</div>
       </div>
