@@ -423,7 +423,13 @@
 /*********************************
 9. Logos
 *********************************/
-
+.slide img{
+  padding: 1rem;
+ } 
+.slide img:hover{
+ cursor: pointer; 
+ filter: opacity(0.5);
+} 
 .logos {
   background: #ffffff;
   padding-bottom: 87px;

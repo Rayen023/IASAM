@@ -208,13 +208,15 @@ $(document).ready(function()
 			     
 			    minutes = parseInt(seconds_left / 60);
 			    seconds = parseInt(seconds_left % 60);
-
-			    // display result
+				
+				if(seconds_left < 0){d.text(0);h.text(0);m.text(0);s.text(0);	}
+				else{
+				// display result
 			    d.text(days);
 			    h.text(hours);
 			    m.text(minutes);
 			    s.text(seconds); 
-			 
+				}
 			}, 1000);
     	}	
     }

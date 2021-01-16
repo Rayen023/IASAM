@@ -27,7 +27,6 @@
 <link rel="stylesheet" type="text/css" href="styles/CTA.css">
 <link rel="stylesheet" type="text/css" href="styles/commun.css">
 
-</head>
 <body>
 
 <div class="super_container">
@@ -76,10 +75,10 @@
 						<!-- Tabs -->
 						<div class="tabs d-flex flex-row align-items-start justify-content-start flex-wrap">
 							<div class="tab active tab1 d-flex flex-row align-items-center justify-content-center">
-								<div>Day 3. <span>February 6, 2021</span></div>
+								<div>Day 1. <span>February 6, 2021</span></div>
 							</div>
 							<div class="tab active d-flex flex-row align-items-center justify-content-center">
-								<div>Day 4. <span>February 7, 2021</span></div>
+								<div>Day 2. <span>February 7, 2021</span></div>
 							</div>
 							<!-- <div class="tab active d-flex flex-row align-items-center justify-content-center">
 								<div>Day 3. <span>December 28, 2020</span></div>
@@ -99,8 +98,27 @@
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
 											<div class="schedule_image"><img src="images/schedule_2.webp" alt="speaker"></div>
 											<div class="schedule_content">
-												<div class="schedule_time">02:00 PM - 03:30 PM</div>
-												<div class="schedule_title">Opening ceremony and Icebreaking</div>
+												<div class="schedule_time">02:00 PM - 02:30 PM</div>
+												<div class="schedule_title">Opening ceremony </div>
+												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
+											</div>
+										</div>
+										
+									</div>
+									<div class="schedule_text">
+										<div class="schedule_text_title">Details</div>
+										<p>Coming soon</p></div>
+									
+								</div>
+
+								<!-- Schedule Item -->
+								<div class="schedule_item">
+									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+											<div class="schedule_image"><img src="images/schedule_7.webp" alt="speaker"></div>
+											<div class="schedule_content">
+												<div class="schedule_time">02:30 PM - 03:30 PM</div>
+												<div class="schedule_title">Icebreaking</div>
 												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
@@ -118,7 +136,7 @@
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
 											<div class="schedule_image"><img src="images/schedule_5.webp" alt="speakers"></div>
 											<div class="schedule_content">
-												<div class="schedule_time">03:30 PM - 04:30 PM</div>
+												<div class="schedule_time">03:30 PM - 05:00 PM</div>
 												<div class="schedule_title">Conference and Debate</div>
 												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
@@ -127,7 +145,8 @@
 									</div>
 									<div class="schedule_text">
 										<div class="schedule_text_title">Details</div>
-										<p>Coming soon</p></div>
+										<p>INDUSTRY 4.0 +IOT (1h)
+                                          Débat sur la conférence (30min)</p></div>
 								</div>
 
 								<!-- Schedule Item -->
@@ -136,8 +155,8 @@
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
 											<div class="schedule_image"><img src="images/schedule_3.webp" alt="workspace"></div>
 											<div class="schedule_content">
-												<div class="schedule_time">04:30 PM - 06:00 PM</div>
-												<div class="schedule_title">Technical challenge: Pitching</div>
+												<div class="schedule_time">05:00 PM - 06:30 PM</div>
+												<div class="schedule_title">Non Technical challenge: Pitching // Workshop BMC</div>
 												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
@@ -145,7 +164,8 @@
 									</div>
 									<div class="schedule_text">
 										<div class="schedule_text_title">Details</div>
-										<p>Coming soon</p></div>
+										<p>Coming soon</p>
+										</div>
 								</div>
 
 
@@ -182,8 +202,8 @@
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
 											<div class="schedule_image"><img src="images/schedule_5.webp" alt="workspace"></div>
 											<div class="schedule_content">
-												<div class="schedule_time">09:00 AM - 10:30 AM</div>
-												<div class="schedule_title">Non Technical Challenge: IAS PRESENTATIONS</div>
+												<div class="schedule_time">09:30 AM - 10:30 AM</div>
+												<div class="schedule_title">Technical Challenge: Pitching</div>
 												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
@@ -191,8 +211,7 @@
 									</div>
 									<div class="schedule_text">
 										<div class="schedule_text_title">Details</div>
-										<p>Coming soon
-										</p>
+										<p>7 finalistes (7 min pour chaque équipe 4 min pitching + 3 min Q/A ) </p>
 									</div>
 								</div>
 
@@ -203,7 +222,7 @@
 											<div class="schedule_image"><img src="images/schedule_6.webp" alt="coffee"></div>
 											<div class="schedule_content">
 												<div class="schedule_time">10:30 AM - 11:00 AM</div>
-												<div class="schedule_title">Break</div>
+												<div class="schedule_title">Artistic Break</div>
 												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
@@ -213,13 +232,15 @@
 										<div class="schedule_text_title">Details</div>
 										<p>Coming soon</p></div>
 								</div>
+
+								<!-- Schedule Item -->
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
 											<div class="schedule_image"><img src="images/schedule_7.webp" alt="conference speaker"></div>
 											<div class="schedule_content">
 												<div class="schedule_time">11:00 AM - 12:00 AM</div>
-												<div class="schedule_title">Success Story</div>
+												<div class="schedule_title">Success Stories</div>
 												<!-- <div class="schedule_info"> <a href="#"></a> </div> -->
 											</div>
 										</div>
@@ -229,6 +250,8 @@
 										<div class="schedule_text_title">Details</div>
 										<p>Coming soon</p></div>
 								</div>
+
+								<!-- Schedule Item -->
 								<div class="schedule_item">
 									<div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
 										<div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
@@ -262,6 +285,9 @@
 			</div>
 		</div>
 	</div>
+
+
+	
 
 	<!-- CTA -->
 
