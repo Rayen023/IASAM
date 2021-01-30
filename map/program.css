@@ -1,0 +1,555 @@
+@charset "utf-8";
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+* {
+	outline: none;
+}
+
+body {
+  font-family: 'Poppins';font-size: 15px;font-weight: 500;
+
+}
+
+
+
+@media screen and (min-width: 475px){
+  .map{
+    height: 55vw;
+    width: 95vw;
+    max-height: 100vh;
+    max-width: 100vw;
+  }
+}
+
+
+@media screen and (min-width: 1157px){
+  .map{
+    height: 52vw;
+    width: 97vw;
+    
+  }
+}
+
+@media screen and (min-width: 1257px){
+  .map{
+    height: 50vw;
+    width: 90vw;
+    
+  }
+}
+
+@media screen and (orientation: portrait) {
+  html {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    width: 100vh;
+    height: 100vw;
+    overflow-x: hidden;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+  .map{
+    height: 55vh;
+    width: 95vh;
+    max-height: 100vw;
+    max-width: 100vh;
+  }
+}
+
+
+.container
+{
+    position:fixed;
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(214, 225, 230);
+}
+.modal_logo{
+
+  cursor: pointer;
+
+}
+
+.modal_logo img{
+  position: fixed;
+top: 8%;
+right: 8%;
+width: 115px;
+height: auto;
+}
+
+
+#overlay {
+  position: fixed;
+  opacity: 0;
+  transition: 200ms ease-in-out;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(214, 225, 230, 0.5);
+  pointer-events: none;
+}
+
+#overlay.active {
+  opacity: 1;
+  pointer-events: all;
+  z-index: 2;
+}
+
+.map_img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1);
+  height: 100%;
+  width: 100%;
+}
+
+.map{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1);
+  z-index: 2;
+}
+
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: 200ms ease-in-out;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  z-index: 3;
+  background-color: white;
+  width: 650px;
+  min-height: 250px;
+  max-height: 80%;
+  max-width: 80%;
+  min-width: 60%;
+  display: flex;
+  flex-direction: column;
+  overflow:auto;
+  
+}
+
+.growth{
+flex-grow: 1;
+
+}
+.modal.active {
+  transform: translate(-50%, -50%) scale(1);
+  
+}
+
+.modal-header {
+  padding: 10px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.modal-header .title {
+  font-size: 2rem;
+  font-weight: bold;
+  padding-top: 1rem;
+  color: rgb(16, 146, 31);
+}
+
+.modal-header .close-button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.modal_time {
+  padding-left: 25px;
+  padding-bottom: 0.75rem;
+  font-size: 14px;
+  font-weight: 700;
+  color: green;
+}
+
+.modal_mail{
+  padding: 10px 15px;
+}
+
+.modal-body {
+  padding: 10px 25px;
+}
+
+.modal_button{
+  /* padding: 0px 20px; */
+  cursor: pointer;
+  background-color: rgb(16, 146, 31);
+  border: none;
+  border-radius: 30px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap; 
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center; 
+  /* max-width: 45%; */
+  min-height: 3rem;
+  min-width: 10rem;
+  filter: drop-shadow(0 0 0.3rem rgba(0, 0, 0,0.5));
+}
+
+.modal_bl{
+  width: 13%;
+  padding-right: 5px;
+  padding-bottom: 2px;
+  height: auto;
+  
+
+}
+
+.madal_button_out{
+  display: flex;
+  justify-content: center;
+  padding: 20px 25px;
+}
+
+/* .conf_button
+{
+  position: absolute;
+  bottom: 15%;
+  left: 35%;
+  width: 30%; 
+}
+.conf{
+background-color: rgb(42, 141, 72);
+cursor: pointer;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap; 
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center; 
+  height: 5vw;
+} */
+
+.meet img{
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  width: 10%;
+  height: 18%;
+  filter: drop-shadow(0 0 0.5rem rgb(0, 0, 0));
+  z-index: 2;
+
+}
+.meet img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.5rem rgb(0, 0, 0));
+}
+
+
+.flag1 a img
+{
+  position: absolute;
+  bottom: 60.2%;
+  left: 66.1%;
+  width: 22.5%;
+  height: 31.1%;  
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
+}
+
+.flag1 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.15rem crimson);
+}
+
+.flag1 .title{
+  color: rgb(167, 14, 44);
+}
+.flag1 .modal_button{
+  background-color: rgb(167, 14, 44);
+}
+
+
+.flag2 a img
+{
+  position: absolute;
+  bottom: 24.4%;
+  left: 48%;
+  width: 22.8%;
+  height: 25.7%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
+
+.flag2 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(190, 178, 0));
+}
+
+.flag2 .title{
+  color: rgb(0, 0, 0);
+}
+.flag2 .modal_button{
+  background-color: rgb(0, 0, 0);
+}
+
+.flag3 a img
+{
+  position: absolute;
+  bottom: 60.2%;
+  left: 6%;
+  width: 20%;
+  height: 22%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
+
+.flag3 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(57, 0, 148));
+}
+.flag3 .title{
+  color: rgb(96, 0, 151);
+}
+.flag3 .modal_button{
+  background-color: rgb(96, 0, 151);
+}
+
+.flag4 a img
+{
+  position: absolute;
+  bottom: 24.4%;
+  left: 22%;
+  width: 28%;
+  height: 27%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
+
+.flag4 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(117, 0, 23));
+}
+
+.flag4 .title{
+  color: rgb(117, 0, 23);
+}
+.flag4 .modal_button{
+  background-color: rgb(117, 0, 23);
+}
+
+.flag5 a img
+{
+  position: absolute;
+  bottom: 60.2%;
+  left: 28.1%;
+  width: 20.5%;
+  height: 26%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
+
+.flag5 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(0, 179, 119));
+}
+
+.flag5 .title{
+  color: rgb(0, 179, 119);
+}
+.flag5 .modal_button{
+  background-color: rgb(0, 179, 119);
+}
+
+.flag6 a img
+{
+  position: absolute;
+  bottom: 24.4%;
+  left: 70.4%;
+  width: 24%;
+  height: 27.4%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
+}
+
+.flag6 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(139, 86, 0));
+}
+
+.flag6 .title{
+  color: rgb(139, 86, 0);
+}
+.flag6 .modal_button{
+  background-color: rgb(139, 86, 0);
+}
+
+.flag7 a img
+{
+  position: absolute;
+  bottom: 60.2%;
+  left: 48.6%;
+  width: 16.5%;
+  height: 30.5%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
+}
+
+.flag7 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(0, 0, 0));
+}
+
+.flag7 .title{
+  color: rgb(0, 0, 0);
+}
+.flag7 .modal_button{
+  background-color: rgb(0, 0, 0);
+}
+
+.flag8 a img
+{
+  position: absolute;
+  bottom: 24.4%;
+  left: 6.2%;
+  width: 14.5%;
+  height: 31%;
+  filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
+}
+
+.flag8 a img:hover
+{
+ cursor: pointer; 
+ filter: drop-shadow(0 0 0.25rem rgb(20, 220, 47));
+}
+
+.flag8 .title{
+  color: rgb(20, 220, 47);
+}
+.flag8 .modal_button{
+  background-color: rgb(20, 220, 47);
+}
+
+.grid_container{
+  padding: 0rem 1.5rem;
+}
+
+.grid{
+  display: grid;
+  grid-gap: 1rem;
+  box-sizing: border-box;
+  padding: 0px 0px;
+  justify-items: center;
+}
+.grid{
+  grid-template-columns: repeat(6, 1fr);
+}
+.team1{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.team2{
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+.team3{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+.team4{
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.team31{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.team32{
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.team33{
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.descrip{
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.descrip2{
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 1;
+ grid-row-end: 1;
+}
+.descrip3{
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+.descrip4{
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+.descrip31{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+.descrip32{
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+.descrip33{
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 2;
+ grid-row-end: 2;
+}
+
+.grid_container span{
+  font-weight: 900;
+}
+
+.team_image img{
+  
+  width: auto;
+  height: 100px;
+}
