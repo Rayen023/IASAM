@@ -38,12 +38,12 @@
 
     <div class="map">
       <div id="overlay"></div>
-      <img class="map_img" src="images/map1.webp" alt="map">
+      <img class="map_img" src="images/map1.png" alt="map">
 
       <!-- flag1 -->
-      <div class=flag1>
-        <a data-modal-target="#modal"><img src="images/henkel1.webp" alt="flag"></a>
-        <div class="modal" id="modal" style="background-color: rgb(255, 239, 239)">
+      <div class="flag1 day2">
+        <a data-modal-target="#modal"><img src="images/break.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal">
           <div class="modal-header">
             <div class="title">Event</div>
           </div>
@@ -91,9 +91,9 @@
       </div>
 
       <!-- flag2 -->
-      <div class=flag2>
-        <a data-modal-target="#modal2"><img src="images/sartorius1.webp" alt="flag"></a>
-        <div class="modal" id="modal2" style="background-color: rgb(255, 255, 236);">
+      <div class="flag2 day1">
+        <a data-modal-target="#modal2"><img src="images/bmc.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal2">
           <div class="modal-header">
             <div class="title">SARTORIUS</div>
           </div>
@@ -134,9 +134,9 @@
       </div>
 
       <!-- flag3 -->
-      <div class=flag3>
-        <a data-modal-target="#modal3"><img src="images/coficab1.webp" alt="flag"></a>
-        <div class="modal" id="modal3" style="background-color: rgb(246, 234, 255);">
+      <div class="flag3 day1">
+        <a data-modal-target="#modal3"><img src="images/debate.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal3">
           <div class="modal-header">
             <div class="title">COFICAB</div>
           </div>
@@ -182,9 +182,9 @@
       </div>
 
       <!-- flag4 -->
-      <div class=flag4>
-        <a data-modal-target="#modal4"><img src="images/corail1.webp" alt="flag"></a>
-        <div class="modal" id="modal4" style="background-color: rgb(255, 239, 239)">
+      <div class="flag4 day2">
+        <a data-modal-target="#modal4"><img src="images/ending.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal4">
           <div class="modal-header">
             <div class="title">CORAIL TECH</div>
           </div>
@@ -232,9 +232,9 @@
       </div>
 
       <!-- flag5 -->
-      <div class=flag5>
-        <a data-modal-target="#modal5"><img src="images/cure1.webp" alt="flag"></a>
-        <div class="modal" id="modal5" style="background-color: rgb(239, 255, 250)">
+      <div class="flag5 day1">
+        <a data-modal-target="#modal5"><img src="images/ice.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal5">
           <div class="modal-header">
             <div class="title">CURE BIONICS</div>
           </div>
@@ -280,9 +280,9 @@
       </div>
 
       <!-- flag6 -->
-      <div class=flag6>
-        <a data-modal-target="#modal6"><img src="images/paulina1.webp" alt="flag"></a>
-        <div class="modal" id="modal6" style="background-color: rgb(255, 249, 239)">
+      <div class="flag6 day1">
+        <a data-modal-target="#modal6"><img src="images/non.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal6">
           <div class="modal-header">
             <div class="title">POULINA GROUP</div>
           </div>
@@ -328,9 +328,9 @@
       </div>
 
       <!-- flag7 -->
-      <div class=flag7>
-        <a data-modal-target="#modal7"><img src="images/draxler1.webp" alt="flag"></a>
-        <div class="modal" id="modal7" style="background-color: rgb(238, 238, 238)">
+      <div class="flag7 day1">
+        <a data-modal-target="#modal7"><img src="images/opening.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal7">
           <div class="modal-header">
             <div class="title">DRÄXLMAIER</div>
           </div>
@@ -376,9 +376,53 @@
       </div>
 
       <!-- flag8 -->
-      <div class=flag8>
-        <a data-modal-target="#modal8"><img src="images/ias.webp" alt="flag"></a>
-        <div class="modal" id="modal8" style="background-color: rgb(255, 249, 239)">
+      <div class="flag8 day2">
+        <a data-modal-target="#modal8"><img src="images/technical.webp" alt="flag"></a>
+        <div class="modal modal_color" id="modal8">
+          <div class="modal-header">
+            <div class="title">POULINA GROUP</div>
+          </div>
+          <div class="modal-body">
+            Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia.
+          </div>
+          <div class="grid_container">
+            <div class="grid">
+              <div class="team team31">
+                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              </div>
+              <div class="descrip31">
+                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+              </div>
+              <div class="team team32">
+                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              </div>
+              <div class="descrip32">
+                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
+              </div>
+              <div class="team team33">
+                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              </div>
+              <div class="descrip33">
+                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="growth"></div>
+          <div class="madal_button_out">
+            <button class="modal_button">
+              <div>JOIN US</div>
+              <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- flag9 -->
+      <div class="flag9 day2">
+        <a data-modal-target="#modal9"><img src="images/success.webp" alt="flag"></a>
+        <div class="modal  modal_color" id="modal9">
           <div class="modal-header">
             <div class="title">POULINA GROUP</div>
           </div>
