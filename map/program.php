@@ -16,17 +16,17 @@
   </script>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="IAS AM JOB FAIR">
+  <meta name="description" content="IAS AM PROGRAM">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta property="og:image" content="https://ias-am.ieee.tn/images/map2.png">
-  <meta property="og:description" content="Job Fair is a one day event organised by the IAS AM committee where several industries from different fields of activity will be present to give opportunities to students and future engineers from various study fields to get an internship .">
+  <meta property="og:image" content="https://ias-am.ieee.tn/map/images/map1.png">
+  <meta property="og:description" content="The IAS Tunisia Annual Meeting is a national scale congress. ✨
+It is an opportunity for all IEEE members and non members to know more about Industry and Technology, and specifically: INDUSTRY 4.0 : technological innovations for industrial transition, since it is our theme for this first edition.">
 
   <title>Program map</title>
   <link rel="shortcut icon" href="iasam.ico" type="image/x-icon">
 
   <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
   <link href="program.css" rel="stylesheet">
-  <link href="a.css" rel="stylesheet">
   <script defer src="program.js"></script>
 </head>
 
@@ -47,9 +47,7 @@
           <div class="modal-header">
             <div class="title">Event</div>
           </div>
-          <div class="modal-body">
-            Henkel is a multinational company with a strong presence worldwide with a diversified and well-balanced business portfolio. The company holds strong global positions in its three sectors.
-          </div>
+
           <div class="grid_container">
             <div class="grid">
               <div class="team team1">
@@ -58,27 +56,11 @@
               <div class="descrip">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
-              <div class="team team2">
-                <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip2">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
-              <div class="team team3">
-                <div class="team_image"><img src="guests/hassen-ouakad.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip3">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-              <div class="team team4">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip4">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
             </div>
           </div>
-
+          <div class="modal-body">
+            Henkel is a multinational company with a strong presence worldwide with a diversified and well-balanced business portfolio. The company holds strong global positions in its three sectors.
+          </div>
           <div class="growth"></div>
 
           <div class="madal_button_out">
@@ -97,31 +79,19 @@
           <div class="modal-header">
             <div class="title">SARTORIUS</div>
           </div>
-          <div class="modal-body">
-            Sartorius is a leading international partner of life sciences and the biopharmaceutical industry. In their ambition to simplify progress for their customers across the globe,
-          </div>
+
           <div class="grid_container">
             <div class="grid">
-              <div class="team team31">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              <div class="team team1">
+                <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip31">
+              <div class="descrip">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
-              <div class="team team32">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip32">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
-              <div class="team team33">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip33">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-
             </div>
+          </div>
+          <div class="modal-body">
+            Sartorius is a leading international partner of life sciences and the biopharmaceutical industry. In their ambition to simplify progress for their customers across the globe,
           </div>
           <div class="growth"></div>
           <div class="madal_button_out">
@@ -192,7 +162,7 @@
             Created in 2007, Corail Technologie is the specialist in electronic, electrical and mechanical engineering solutions. Corail Technologie is recognized as the leader of electronic testing in Tunisia.
 
           </div>
-          <div class="grid_container">
+          <!-- <div class="grid_container">
             <div class="grid">
               <div class="team team1">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
@@ -219,7 +189,7 @@
                 <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="growth"></div>
 
           <div class="madal_button_out">
@@ -238,9 +208,7 @@
           <div class="modal-header">
             <div class="title">CURE BIONICS</div>
           </div>
-          <div class="modal-body">
-            Cure Bionics is a Medtech startup that develops customizable and smart bionic prostheses for people with upper limb differences and various physical rehabilitation solutions.
-          </div>
+
           <div class="grid_container">
             <div class="grid">
               <div class="team team1">
@@ -249,25 +217,10 @@
               <div class="descrip">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
-              <div class="team team2">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip2">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
-              <div class="team team3">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip3">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-              <div class="team team4">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip4">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
             </div>
+          </div>
+          <div class="modal-body">
+            Cure Bionics is a Medtech startup that develops customizable and smart bionic prostheses for people with upper limb differences and various physical rehabilitation solutions.
           </div>
           <div class="growth"></div>
           <div class="madal_button_out">
@@ -284,12 +237,12 @@
         <a data-modal-target="#modal6"><img src="images/non.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal6">
           <div class="modal-header">
-            <div class="title">POULINA GROUP</div>
+            <div class="title">Non Technical Challenge : Pitching</div>
           </div>
           <div class="modal-body">
             Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia.
           </div>
-          <div class="grid_container">
+          <!-- <div class="grid_container">
             <div class="grid">
               <div class="team team1">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
@@ -316,7 +269,7 @@
                 <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="growth"></div>
           <div class="madal_button_out">
             <button class="modal_button">
@@ -339,29 +292,23 @@
           </div>
           <div class="grid_container">
             <div class="grid">
-              <div class="team team1">
+              <div class="team team31">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip">
+              <div class="descrip31">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
-              <div class="team team2">
+              <div class="team team32">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip2">
+              <div class="descrip32">
                 <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
               </div>
-              <div class="team team3">
+              <div class="team team33">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip3">
+              <div class="descrip33">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-              <div class="team team4">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip4">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
               </div>
             </div>
           </div>
@@ -431,23 +378,17 @@
           </div>
           <div class="grid_container">
             <div class="grid">
-              <div class="team team31">
+              <div class="team team1">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip31">
+              <div class="descrip">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
-              <div class="team team32">
+              <div class="team team2">
                 <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip32">
+              <div class="descrip2">
                 <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
-              <div class="team team33">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip33">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
 
             </div>
