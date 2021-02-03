@@ -45,13 +45,13 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal"><img src="images/break.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal">
           <div class="modal-header">
-            <div class="title">Event</div>
+            <div class="title">Artistic Break : Theatro Insat</div>
           </div>
 
           <div class="grid_container">
             <div class="grid">
               <div class="team team1">
-                <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/Theatro.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
@@ -77,7 +77,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal2"><img src="images/bmc.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal2">
           <div class="modal-header">
-            <div class="title">SARTORIUS</div>
+            <div class="title">Workshop BMC</div>
           </div>
 
           <div class="grid_container">
@@ -86,7 +86,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
                 <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Akrem saadaoui : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
             </div>
           </div>
@@ -108,36 +108,30 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal3"><img src="images/debate.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal3">
           <div class="modal-header">
-            <div class="title">COFICAB</div>
+            <div class="title">Debate : Industry 4.0</div>
           </div>
           <div class="modal-body">
             COFICAB is a best-in-class world leader in the manufacturing and sales of automotive cables and wires. The company is a member of the Tunisian multinational industrial group, ELLOUMI Group, founded in 1946.
           </div>
           <div class="grid_container">
             <div class="grid">
-              <div class="team team1">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              <div class="team team31">
+                <div class="team_image"><img src="guests/Peter.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+              <div class="descrip31">
+                <p><span>Peter Magyar : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
-              <div class="team team2">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              <div class="team team32">
+                <div class="team_image"><img src="guests/Georges-zissis.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip2">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+              <div class="descrip32">
+                <p><span>Georges zissis :</span> DSI Informationstechnic GmbH</p>
               </div>
-              <div class="team team3">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+              <div class="team team33">
+                <div class="team_image"><img src="guests/Wei-Jen-Lee.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip3">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-              <div class="team team4">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip4">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+              <div class="descrip33">
+                <p><span>Wei Jen Lee : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
             </div>
           </div>
@@ -156,7 +150,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal4"><img src="images/ending.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal4">
           <div class="modal-header">
-            <div class="title">CORAIL TECH</div>
+            <div class="title">Ending Ceremony</div>
           </div>
           <div class="modal-body">
             Created in 2007, Corail Technologie is the specialist in electronic, electrical and mechanical engineering solutions. Corail Technologie is recognized as the leader of electronic testing in Tunisia.
@@ -206,16 +200,16 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal5"><img src="images/ice.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal5">
           <div class="modal-header">
-            <div class="title">CURE BIONICS</div>
+            <div class="title">Ice Breaking : Workshop PNL</div>
           </div>
 
           <div class="grid_container">
             <div class="grid">
               <div class="team team1">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Akrem saadaoui : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
             </div>
           </div>
@@ -285,7 +279,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal7"><img src="images/opening.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal7">
           <div class="modal-header">
-            <div class="title">DRÄXLMAIER</div>
+            <div class="title">Opening Ceremony</div>
           </div>
           <div class="modal-body">
             The DRÄXLMAIER Group is one of the top 100 automobile suppliers in the world and operates at more than 60 sites in over 20 countries.
@@ -293,22 +287,22 @@ It is an opportunity for all IEEE members and non members to know more about Ind
           <div class="grid_container">
             <div class="grid">
               <div class="team team31">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/Peter.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip31">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Peter Magyar : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
               <div class="team team32">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/Georges-zissis.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip32">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
+                <p><span>Georges zissis :</span> DSI Informationstechnic GmbH</p>
               </div>
               <div class="team team33">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/Wei-Jen-Lee.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip33">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Wei Jen Lee : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
             </div>
           </div>
@@ -327,21 +321,21 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal8"><img src="images/technical.webp" alt="flag"></a>
         <div class="modal modal_color" id="modal8">
           <div class="modal-header">
-            <div class="title">POULINA GROUP</div>
+            <div class="title">Technical Challenge : Pitching</div>
           </div>
           <div class="modal-body">
-            Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia.
+            Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia. Will be judged by this qualified jury :
           </div>
           <div class="grid_container">
             <div class="grid">
               <div class="team team31">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip31">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
               <div class="team team32">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/ph.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip32">
                 <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
@@ -371,7 +365,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
         <a data-modal-target="#modal9"><img src="images/success.webp" alt="flag"></a>
         <div class="modal  modal_color" id="modal9">
           <div class="modal-header">
-            <div class="title">POULINA GROUP</div>
+            <div class="title">Sucees Stories</div>
           </div>
           <div class="modal-body">
             Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia.
@@ -379,13 +373,13 @@ It is an opportunity for all IEEE members and non members to know more about Ind
           <div class="grid_container">
             <div class="grid">
               <div class="team team1">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/hassen-ouakad.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
                 <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
               </div>
               <div class="team team2">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/toube.jpg" alt="rayen ghali"></div>
               </div>
               <div class="descrip2">
                 <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>

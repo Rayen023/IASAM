@@ -32,7 +32,7 @@
 
         <div class="grid_12">
             <div class="team">
-                <div class="team_image"><img src="map/guests/rania.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="map/guests/toube.jpg" alt="rayen ghali"></div>
                 <div class="team_info flex  ">
 
                     <div>

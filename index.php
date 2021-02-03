@@ -7,19 +7,22 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFM7KDK600"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'G-EFM7KDK600');
+        gtag('config', 'G-EFM7KDK600');
     </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="IAS Tunisia Annual Meeting">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:description" content="The IAS Tunisia Annual Meeting is a national scale congress. ✨
+It is an opportunity for all IEEE members and non members to know more about Industry and Technology, and specifically: INDUSTRY 4.0 : technological innovations for industrial transition, since it is our theme for this first edition.">
+
 
     <title>IAS Tunisia Annual Meeting</title>
     <link rel="shortcut icon" href="iasam.ico" type="image/x-icon">
@@ -81,8 +84,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="button button_1 home_button"><a href="registration"><span>Register<img
-                                                src="images/arrow_2.webp" alt="arrow"></span></a></div>
+                                <div class="button button_1 home_button"><a href="map/program"><span>JOIN US<img src="images/arrow_2.webp" alt="arrow"></span></a></div>
                             </div>
                         </div>
                     </div>
@@ -153,8 +155,7 @@
                             be held for the FIRST TIME.
                         </p>
                     </div>
-                    <!-- <div class="button button_2 intro_button"><a href="registration"><span>Register<img src="images/arrow.webp"
-                                        alt=""></span></a></div> -->
+
                 </div>
             </div>
         </div>
@@ -172,7 +173,7 @@
                             <img src="images/icon_1.svg" alt="https://www.flaticon.com/authors/freepik">
                         </div>
                         <div class="milestone_content">
-                            <div class="milestone_counter" data-end-value="155" data-sign-after="">0</div>
+                            <div class="milestone_counter" data-end-value="100 +" data-sign-after="">0</div>
                             <div class="milestone_text">Participants</div>
                         </div>
                     </div>
@@ -198,7 +199,7 @@
                             <img src="images/icon_3.svg" alt="https://www.flaticon.com/authors/freepik">
                         </div>
                         <div class="milestone_content">
-                            <div class="milestone_counter" data-end-value="4">0</div>
+                            <div class="milestone_counter" data-end-value="2">0</div>
                             <div class="milestone_text">Days</div>
                         </div>
 
@@ -270,8 +271,7 @@
                                     </div>
                                 </li>
                                 <li class="d-flex flex-row align-items-center justify-content-start">
-                                    <div class="schedule_image"><img src="images/schedule_11.webp"
-                                            alt="challenge photo"></div>
+                                    <div class="schedule_image"><img src="images/schedule_11.webp" alt="challenge photo"></div>
                                     <div class="schedule_content">
                                         <div class="schedule_time">05:00 PM - 06:30 PM</div>
                                         <div class="schedule_title">Workshop BMC // IAS Presentations </div>
@@ -317,8 +317,7 @@
                                 </li>
 
                                 <li class="d-flex flex-row align-items-center justify-content-start">
-                                    <div class="schedule_image"><img src="images/schedule_2.webp"
-                                            style="height:65px; width:auto;" alt="speaker2"></div>
+                                    <div class="schedule_image"><img src="images/schedule_2.webp" style="height:65px; width:auto;" alt="speaker2"></div>
                                     <div class="schedule_content">
                                         <div class="schedule_time">12:00 AM - 01:00 PM</div>
                                         <div class="schedule_title">Closing ceremony</div>
@@ -358,20 +357,16 @@
                         <div class="owl-carousel owl-theme logos_slider">
 
                             <!-- Slide -->
-                            <div class="slide"><img src="images/logo_1.webp" alt="leoni logo"
-                                    onClick="window.open('https://www.leoni.com/en/');"></div>
+                            <div class="slide"><img src="images/logo_1.webp" alt="leoni logo" onClick="window.open('https://www.leoni.com/en/');"></div>
 
                             <!-- Slide -->
-                            <div class="slide"><img src="images/logo_3.webp" alt="novation city"
-                                    onClick="window.open('https://www.novationcity.com/');"></div>
+                            <div class="slide"><img src="images/logo_3.webp" alt="novation city" onClick="window.open('https://www.novationcity.com/');"></div>
 
                             <!-- Slide -->
-                            <div class="slide"><img src="images/logo_4.webp" alt="innovation"
-                                    onClick="window.open('https://novationaccelerator.com/starti4/');"></div>
+                            <div class="slide"><img src="images/logo_4.webp" alt="innovation" onClick="window.open('https://novationaccelerator.com/starti4/');"></div>
 
                             <!-- Slide -->
-                            <div class="slide"><img src="images/logo_2.webp" alt="logo"
-                                    onClick="window.open('https://www.novationcity.com/');"></div>
+                            <div class="slide"><img src="images/logo_2.webp" alt="logo" onClick="window.open('https://www.novationcity.com/');"></div>
 
                         </div>
                     </div>
@@ -409,12 +404,12 @@
     <script src="js/index.js"></script>
     <script src="js/commun.js"></script>
     <script>
-    $(document).ready(function() {
+        $(document).ready(function() {
 
 
-        $('li.active').removeClass('active');
-        $('a[href="' + decodeURI(location.pathname).substring(1) + '"]').closest('li').addClass('active');
-    })
+            $('li.active').removeClass('active');
+            $('a[href="' + decodeURI(location.pathname).substring(1) + '"]').closest('li').addClass('active');
+        })
     </script>
 </body>
 

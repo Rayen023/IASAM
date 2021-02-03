@@ -5,14 +5,14 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFM7KDK600"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'G-EFM7KDK600');
+        gtag('config', 'G-EFM7KDK600');
     </script>
     <title>Program</title>
     <link rel="shortcut icon" href="iasam.ico" type="image/x-icon">
@@ -47,8 +47,7 @@
         <!-- Home -->
 
         <div class="home">
-            <div class="parallax_background parallax-window" data-parallax="scroll"
-                data-image-src="images/schedule_page.webp" data-speed="0.8"></div>
+            <div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/schedule_page.webp" data-speed="0.8"></div>
             <div class="home_container">
                 <div class="container">
                     <div class="row">
@@ -101,15 +100,12 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_2.webp"
-                                                        alt="speaker"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_2.webp" alt="speaker"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">02:00 PM - 02:30 PM</div>
-                                                    <div class="schedule_title">Opening ceremony </div>
+                                                    <div class="schedule_title">Opening Ceremony </div>
                                                     <!-- <div class="schedule_info"> <a href="#"></a> </div> -->
                                                 </div>
                                             </div>
@@ -124,12 +120,9 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_7.webp"
-                                                        alt="speaker"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_7.webp" alt="speaker"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">02:30 PM - 03:30 PM</div>
                                                     <div class="schedule_title">Icebreaking</div>
@@ -147,12 +140,9 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_5.webp"
-                                                        alt="speakers"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_5.webp" alt="speakers"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">03:30 PM - 05:00 PM</div>
                                                     <div class="schedule_title">Conference and Debate</div>
@@ -169,12 +159,9 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_3.webp"
-                                                        alt="workspace"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_3.webp" alt="workspace"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">05:00 PM - 06:30 PM</div>
                                                     <div class="schedule_title">Non Technical challenge: Pitching //
@@ -220,12 +207,9 @@
                                     <!-- Schedule Item -->
 
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_5.webp"
-                                                        alt="workspace"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_5.webp" alt="workspace"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">09:30 AM - 10:30 AM</div>
                                                     <div class="schedule_title">Technical Challenge: Pitching</div>
@@ -242,12 +226,9 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_6.webp"
-                                                        alt="coffee"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_6.webp" alt="coffee"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">10:30 AM - 11:00 AM</div>
                                                     <div class="schedule_title">Artistic Break</div>
@@ -264,12 +245,9 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_7.webp"
-                                                        alt="conference speaker"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_7.webp" alt="conference speaker"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">11:00 AM - 12:00 AM</div>
                                                     <div class="schedule_title">Success Stories</div>
@@ -286,12 +264,9 @@
 
                                     <!-- Schedule Item -->
                                     <div class="schedule_item">
-                                        <div
-                                            class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
-                                            <div
-                                                class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
-                                                <div class="schedule_image"><img src="images/schedule_8.webp"
-                                                        alt="ceremony photo"></div>
+                                        <div class="schedule_title_bar d-flex flex-lg-row flex-column align-items-lg-end justify-content-start">
+                                            <div class="schedule_title_container d-flex flex-row align-items-end justify-content-start">
+                                                <div class="schedule_image"><img src="images/schedule_8.webp" alt="ceremony photo"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">11:00 AM - 12:00 AM</div>
                                                     <div class="schedule_title">Winners annoucement and Closing ceremony
@@ -353,12 +328,12 @@
     <script src="js/schedule.js"></script>
     <script src="js/commun.js"></script>
     <script>
-    $(document).ready(function() {
+        $(document).ready(function() {
 
 
-        $('li.active').removeClass('active');
-        $('a[href="' + decodeURI(location.pathname).substring(1) + '"]').closest('li').addClass('active');
-    })
+            $('li.active').removeClass('active');
+            $('a[href="' + decodeURI(location.pathname).substring(1) + '"]').closest('li').addClass('active');
+        })
     </script>
 </body>
 

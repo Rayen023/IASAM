@@ -512,24 +512,25 @@ flex-grow: 1;
 .day1 a img:hover
 {
  cursor: pointer; 
- filter: drop-shadow(0 0 0.25rem rgb(190, 178, 0));
+ filter: drop-shadow(0 0 0.5rem rgb(190, 178, 0));
 }
 .day2 a img:hover
 {
   cursor: pointer; 
- filter: drop-shadow(0 0 0.25rem rgb(23, 122, 37));
+ filter: drop-shadow(0 0 0.5rem rgb(39, 143, 53));
 }
 .day1 .title{
-  color: rgb(23, 122, 37);
-}
-.day1 .modal_button{
-  background-color: rgb(23, 122, 37);
-}
-.day2 .title{
   color: rgb(0, 0, 0);
 }
-.day2 .modal_button{
+.day1 .modal_button{
   background-color: rgb(0, 0, 0);
+}
+.day2 .title{
+  color: rgb(23, 122, 37);
+}
+.day2 .modal_button{
+  
+  background-color: rgb(23, 122, 37);
 }
 
 .modal_color{
@@ -541,8 +542,8 @@ flex-grow: 1;
   position: absolute;
   bottom: 37.2%;
   left: 49.8%;
-  width: 35.5%;
-  height: 17.1%;  
+  width: 35%;
+  height: 17%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
 }
 
@@ -550,10 +551,10 @@ flex-grow: 1;
 .flag2 a img
 {
   position: absolute;
-  bottom: 6.5%;
+  bottom: 7%;
   left: 14.9%;
   width: 18%;
-  height: 16.9%;  
+  height: 15.9%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
  
 
@@ -561,18 +562,18 @@ flex-grow: 1;
 {
   position: absolute;
   bottom: 38.2%;
-  left: 14.2%;
-  width: 35.5%;
-  height: 17.1%;  
+  left: 14.42%;
+  width: 34.85%;
+  height: 16.6%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
 
 
 .flag4 a img
 {
   position: absolute;
-  bottom: 5.65%;
-  left: 49.4%;
-  width: 35.5%;
+  bottom: 5.5%;
+  left: 49.71%;
+  width: 36%;
   height: 17.1%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
 
@@ -580,20 +581,20 @@ flex-grow: 1;
 .flag5 a img
 {
   position: absolute;
-  bottom: 23%;
-  left: 14.5%;
+  bottom: 23.4%;
+  left: 14.8%;
   width: 34%;
-  height: 16.1%;  
+  height: 15.1%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));}
 
 
 .flag6 a img
 {
   position: absolute;
-  bottom: 8.4%;
+  bottom: 8.5%;
   left: 33%;
-  width: 16%;
-  height: 10%;  
+  width: 15.3%;
+  height: 9.8%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
 }
 
@@ -602,7 +603,7 @@ flex-grow: 1;
 {
   position: absolute;
   bottom: 54.65%;
-  left: 14.5%;
+  left: 14.7%;
   width: 34%;
   height: 15.1%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
@@ -625,7 +626,7 @@ flex-grow: 1;
 {
   position: absolute;
   bottom: 22.5%;
-  left: 50%;
+  left: 50.3%;
   width: 34%;
   height: 15.1%;  
   filter: drop-shadow(0 0 0.15rem rgb(90, 90, 90));
