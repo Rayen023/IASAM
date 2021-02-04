@@ -7,10 +7,14 @@
 }
 
 body {
-  font-family: 'Poppins';font-size: 15px;font-weight: 500;
+  font-family: 'Poppins';font-size: 17px;font-weight: 500;
 
 }
 
+.grid p {
+  font-size: 13.5px;font-weight: 500;
+
+}
 
 
 @media screen and (min-width: 700px){

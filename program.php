@@ -113,7 +113,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>During our opening ceremony , we will be honoured by the presence of some of the people who helped the most the IAS IEEE community around the world and especially our IAS IEEE INSAT.</p>
                                         </div>
 
                                     </div>
@@ -125,7 +125,7 @@
                                                 <div class="schedule_image"><img src="images/schedule_7.webp" alt="speaker"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">02:30 PM - 03:30 PM</div>
-                                                    <div class="schedule_title">Icebreaking</div>
+                                                    <div class="schedule_title">Icebreaking : PNL Workshop</div>
                                                     <!-- <div class="schedule_info"> <a href="#"></a> </div> -->
                                                 </div>
                                             </div>
@@ -133,7 +133,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>NLP workshop : Neuro-linguistic programming is not only a workshop , it’s dedicated to smoothen the communication between our participants . </p>
                                         </div>
 
                                     </div>
@@ -153,7 +153,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>The Debate theme we will be discussing with our guests is “Can the merging of industry 4.0 replace the manpower and cause job dislocation or does it help in the economic growth accompanied with job opportunities.” </p>
                                         </div>
                                     </div>
 
@@ -164,8 +164,7 @@
                                                 <div class="schedule_image"><img src="images/schedule_3.webp" alt="workspace"></div>
                                                 <div class="schedule_content">
                                                     <div class="schedule_time">05:00 PM - 06:30 PM</div>
-                                                    <div class="schedule_title">Non Technical challenge: Pitching //
-                                                        Workshop BMC</div>
+                                                    <div class="schedule_title">Non Technical challenge: Pitching</div>
                                                     <!-- <div class="schedule_info"> <a href="#"></a> </div> -->
                                                 </div>
                                             </div>
@@ -173,7 +172,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>The IAS SBC will present their activities and Tunisia section will choose the SB to organize the next edition of IAS TUNISIA ANNUAL MEETING . </p>
                                         </div>
                                     </div>
 
@@ -220,7 +219,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>“SMARTINDUS” is a competition during which participants will innovate, and develop an idea in order to solve a specific problem related to Industry 4.0 and smart factories .</p>
                                         </div>
                                     </div>
 
@@ -239,7 +238,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>We will be presenting for you a short play recorded by the talented members of THEATRO INSAT.</p>
                                         </div>
                                     </div>
 
@@ -258,7 +257,7 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>Two of the most successful tunisian people will join us to talk about their careers and how they got to the top in order to inspire us. </p>
                                         </div>
                                     </div>
 
@@ -278,7 +277,8 @@
                                         </div>
                                         <div class="schedule_text">
                                             <div class="schedule_text_title">Details</div>
-                                            <p>Coming soon</p>
+                                            <p>We will be announcing the winning teams for the TECHNICAL CHALLENGE followed by the presentation of the winning IAS CHAPTER as well as the best Ambassador .
+                                            </p>
                                         </div>
                                     </div>
 

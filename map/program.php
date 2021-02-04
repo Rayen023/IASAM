@@ -54,17 +54,17 @@ It is an opportunity for all IEEE members and non members to know more about Ind
                 <div class="team_image"><img src="guests/Theatro.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Theatro INSAT : </span> The official insat club for theatery</p>
               </div>
             </div>
           </div>
           <div class="modal-body">
-            Henkel is a multinational company with a strong presence worldwide with a diversified and well-balanced business portfolio. The company holds strong global positions in its three sectors.
+            We will be presenting for you a short play recorded by the talented members of THEATRO INSAT.
           </div>
           <div class="growth"></div>
 
           <div class="madal_button_out">
-            <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/1nnRzmiOz3n-bGwveE4A-BFG4j6smxwpx?usp=sharing');">
+            <button class="modal_button" onClick="window.open('https://meet.google.com/pen-uyny-vik');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -86,19 +86,19 @@ It is an opportunity for all IEEE members and non members to know more about Ind
                 <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
-                <p><span>Akrem saadaoui : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Akrem Saadaoui : </span> Head of Talent Acquisition at DRAXLMEIR Tunisia</p>
               </div>
             </div>
           </div>
           <div class="modal-body">
-            Sartorius is a leading international partner of life sciences and the biopharmaceutical industry. In their ambition to simplify progress for their customers across the globe,
+            This workshop is designed not only to help the participants pitch their ideas during the TECHNICAL CHALLENGE but also improve their skills for their future career .
           </div>
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/1JZOqlxydWEXQPMGGa7Yqp5rUoKHFJl8x?usp=sharing');">
+            <<button class="modal_button" onClick="window.open('https://meet.google.com/pen-uyny-vik');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
-            </button>
+              </button>
           </div>
         </div>
       </div>
@@ -111,33 +111,39 @@ It is an opportunity for all IEEE members and non members to know more about Ind
             <div class="title">Debate : Industry 4.0</div>
           </div>
           <div class="modal-body">
-            COFICAB is a best-in-class world leader in the manufacturing and sales of automotive cables and wires. The company is a member of the Tunisian multinational industrial group, ELLOUMI Group, founded in 1946.
+            The theme we will be discussing with our guests is “Can the merging of industry 4.0 replace the manpower and cause job dislocation or does it help in the economic growth accompanied with job opportunities.”
           </div>
           <div class="grid_container">
             <div class="grid">
-              <div class="team team31">
-                <div class="team_image"><img src="guests/Peter.webp" alt="rayen ghali"></div>
+              <div class="team team1">
+                <div class="team_image"><img src="guests/hamdi.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip31">
-                <p><span>Peter Magyar : </span>assosiate professor at Sultan Qaboos University</p>
+              <div class="descrip">
+                <p><span>Mohamed Hamdi : </span> Associate professor at SUP’COM ,founding director of Elgazala Innovation Center.</p>
               </div>
-              <div class="team team32">
-                <div class="team_image"><img src="guests/Georges-zissis.webp" alt="rayen ghali"></div>
+              <div class="team team2">
+                <div class="team_image"><img src="guests/ons.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip32">
-                <p><span>Georges zissis :</span> DSI Informationstechnic GmbH</p>
+              <div class="descrip2">
+                <p><span>Ons Obba :</span> Technical Expert in Digital Transformation in the Digital Transformation Center Tunisia ( GIZ Tunisia)</p>
               </div>
-              <div class="team team33">
-                <div class="team_image"><img src="guests/Wei-Jen-Lee.webp" alt="rayen ghali"></div>
+              <div class="team team3">
+                <div class="team_image"><img src="guests/kais.webp" alt="rayen ghali"></div>
               </div>
-              <div class="descrip33">
-                <p><span>Wei Jen Lee : </span>assosiate professor at Sultan Qaboos University</p>
+              <div class="descrip3">
+                <p><span>Kais Mejri : </span> General Director of Innovation and Technological Development in the ministry of Industry and SMEs</p>
+              </div>
+              <div class="team team4">
+                <div class="team_image"><img src="guests/anas.webp" alt="rayen ghali"></div>
+              </div>
+              <div class="descrip4">
+                <p><span>Anas Rochdi :</span> Director of innovation at Pôle de Compétitivité de Sousse</p>
               </div>
             </div>
           </div>
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/1dDs4DtD5N5E_3JNxUUT6Ku7sbgy7x2PX?usp=sharing');">
+            <button class="modal_button" onClick="window.open('https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e1763dcb53dad6aaa0f0b4fe03b9d3994');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -153,41 +159,12 @@ It is an opportunity for all IEEE members and non members to know more about Ind
             <div class="title">Ending Ceremony</div>
           </div>
           <div class="modal-body">
-            Created in 2007, Corail Technologie is the specialist in electronic, electrical and mechanical engineering solutions. Corail Technologie is recognized as the leader of electronic testing in Tunisia.
-
+            We will be announcing the winning teams for the TECHNICAL CHALLENGE followed by the presentation of the winning IAS CHAPTER as well as the best Ambassador .
           </div>
-          <!-- <div class="grid_container">
-            <div class="grid">
-              <div class="team team1">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-              <div class="team team2">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip2">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
-              <div class="team team3">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip3">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
-              </div>
-              <div class="team team4">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
-              </div>
-              <div class="descrip4">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
-              </div>
-            </div>
-          </div> -->
           <div class="growth"></div>
 
           <div class="madal_button_out">
-            <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/1vBjxI1BYyJlCTXXs9zcaKEh7pBkp_XP7?usp=sharing');">
+            <button class="modal_button" onClick="window.open('https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e3cca1300cc9ca70496fa9f3cc370d3b1');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -206,19 +183,19 @@ It is an opportunity for all IEEE members and non members to know more about Ind
           <div class="grid_container">
             <div class="grid">
               <div class="team team1">
-                <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/hanen.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
-                <p><span>Akrem saadaoui : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Hanen Almia : </span> Neuro-linguistic programming practitioner certified by The american Society of NLP.</p>
               </div>
             </div>
           </div>
           <div class="modal-body">
-            Cure Bionics is a Medtech startup that develops customizable and smart bionic prostheses for people with upper limb differences and various physical rehabilitation solutions.
+            NLP ( Neuro-linguistic programming ) Workshop : is not only a workshop , it’s also dedicated to smoothen the communication between our participants and invite them to be more actif.
           </div>
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button" onClick="window.open('https://drive.google.com/drive/folders/1zGUV1NwkDHocO2CtvtF6qRbdDCLwKO6C?usp=sharing');">
+            <button class="modal_button" onClick="window.open('https://meet.google.com/pen-uyny-vik');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -234,7 +211,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
             <div class="title">Non Technical Challenge : Pitching</div>
           </div>
           <div class="modal-body">
-            Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia.
+            All IAS SBCs will be presenting their activities and achievements during the past years so that the Tunisia section can choose the next Student Branch to organize the second edition of IAS TUNISIA ANNUAL MEETING .
           </div>
           <!-- <div class="grid_container">
             <div class="grid">
@@ -266,7 +243,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
           </div> -->
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button">
+            <button class="modal_button" onClick="window.open('https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e1763dcb53dad6aaa0f0b4fe03b9d3994');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -282,7 +259,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
             <div class="title">Opening Ceremony</div>
           </div>
           <div class="modal-body">
-            The DRÄXLMAIER Group is one of the top 100 automobile suppliers in the world and operates at more than 60 sites in over 20 countries.
+            During our opening ceremony , we will be honoured by the presence of some of the people who helped the most the IAS IEEE community around the world and especially our IAS IEEE INSAT.
           </div>
           <div class="grid_container">
             <div class="grid">
@@ -290,25 +267,26 @@ It is an opportunity for all IEEE members and non members to know more about Ind
                 <div class="team_image"><img src="guests/Peter.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip31">
-                <p><span>Peter Magyar : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Peter Magyar : </span> IEEE IAS CMD Past chair </p>
+                <!-- (Chair of the Chapters and Membership Department for 9 years in a row ) -->
               </div>
               <div class="team team32">
                 <div class="team_image"><img src="guests/Georges-zissis.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip32">
-                <p><span>Georges zissis :</span> DSI Informationstechnic GmbH</p>
+                <p><span>Georges zissis :</span> IAS PAST President</p>
               </div>
               <div class="team team33">
                 <div class="team_image"><img src="guests/Wei-Jen-Lee.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip33">
-                <p><span>Wei Jen Lee : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Wei Jen Lee : </span> IAS current President</p>
               </div>
             </div>
           </div>
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button">
+            <button class="modal_button" onClick="window.open('https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e1763dcb53dad6aaa0f0b4fe03b9d3994');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -324,7 +302,8 @@ It is an opportunity for all IEEE members and non members to know more about Ind
             <div class="title">Technical Challenge : Pitching</div>
           </div>
           <div class="modal-body">
-            Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia. Will be judged by this qualified jury :
+            “SMARTINDUS” is a competition during which participants will innovate, and develop an idea in order to solve a specific problem related to Industry 4.0 and smart factories .
+            And the selected JURY are :
           </div>
           <div class="grid_container">
             <div class="grid">
@@ -332,19 +311,20 @@ It is an opportunity for all IEEE members and non members to know more about Ind
                 <div class="team_image"><img src="guests/Akrem saadaoui.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip31">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Akrem saadaoui : </span> Head of Talent Acquisition at DRAXLMEIR Tunisia</p>
+
               </div>
               <div class="team team32">
                 <div class="team_image"><img src="guests/ph.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip32">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
+                <p><span>Slim Abdelhedi :</span> Training and IT Infrastructures Consultant</p>
               </div>
               <div class="team team33">
-                <div class="team_image"><img src="guests/hom.webp" alt="rayen ghali"></div>
+                <div class="team_image"><img src="guests/skander.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip33">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Skander Mansouri : </span> Software engineering consultant at Wevioo France</p>
               </div>
 
             </div>
@@ -352,7 +332,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
 
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button">
+            <button class="modal_button" onClick="window.open('https://meet.google.com/pen-uyny-vik');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
@@ -368,7 +348,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
             <div class="title">Sucees Stories</div>
           </div>
           <div class="modal-body">
-            Poulina Group Holding is a Tunisian group created in 1967. Originally specialized in poultry farming, the group has gradually diversified to become the first group with private capital in Tunisia.
+            Two of the most successful tunisian people will join us to talk about their careers and how they got to the top in order to inspire us.
           </div>
           <div class="grid_container">
             <div class="grid">
@@ -376,13 +356,13 @@ It is an opportunity for all IEEE members and non members to know more about Ind
                 <div class="team_image"><img src="guests/hassen-ouakad.webp" alt="rayen ghali"></div>
               </div>
               <div class="descrip">
-                <p><span>Hassan ouakad : </span>assosiate professor at Sultan Qaboos University</p>
+                <p><span>Hassan Ouakad : </span> Assosiate professor at Sultan Qaboos University and one of the top 100,000 researchers.</p>
               </div>
               <div class="team team2">
                 <div class="team_image"><img src="guests/toube.jpg" alt="rayen ghali"></div>
               </div>
               <div class="descrip2">
-                <p><span>Rania toukabri :</span> DSI Informationstechnic GmbH</p>
+                <p><span>Rania Toukabri :</span> Top 10 under 30 space engineer award in Africa 2019</p>
               </div>
 
             </div>
@@ -390,7 +370,7 @@ It is an opportunity for all IEEE members and non members to know more about Ind
 
           <div class="growth"></div>
           <div class="madal_button_out">
-            <button class="modal_button">
+            <button class="modal_button" onClick="window.open('https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e3cca1300cc9ca70496fa9f3cc370d3b1');">
               <div>JOIN US</div>
               <img class="modal_bl" src="https://img.icons8.com/android/96/ffffff/video-call.png" />
             </button>
